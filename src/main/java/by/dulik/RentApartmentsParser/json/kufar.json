@@ -1,0 +1,8228 @@
+{
+  "ads": [
+    {
+      "ad_id": 40338271,
+      "address": "Беларусь, Минская область, Мядельский район, курортный посёлок Нарочь",
+      "category": 1010,
+      "coordinates": [
+        26.706267,
+        54.907786
+      ],
+      "images": [
+        {
+          "id": "5303056057"
+        },
+        {
+          "id": "5387201405"
+        },
+        {
+          "id": "5312383657"
+        },
+        {
+          "id": "5310207973"
+        }
+      ],
+      "list_id": 35768575,
+      "list_time": "2018-09-21T08:45:24Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "6000",
+      "price_usd": "2833",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Аренда квартиры в центре к.п.Нарочь",
+      "tmp_blocket_url": "https://www.kufar.by/vi/35768575.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 43325798,
+      "address": "пр. Интернациональный",
+      "category": 1010,
+      "coordinates": [
+        30.98408,
+        54.300896
+      ],
+      "images": [
+        {
+          "id": "9712058971"
+        },
+        {
+          "id": "9735262487"
+        },
+        {
+          "id": "9735945093"
+        },
+        {
+          "id": "9755375703"
+        },
+        {
+          "id": "9748044370"
+        }
+      ],
+      "list_id": 38454888,
+      "list_time": "2018-10-29T20:24:40Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "600",
+      "price_usd": "283",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2-х комнатная без хозяев квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/38454888.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 43681836,
+      "address": "Беларусь, Брестская область, Пинск, улица Зои Космодемьянской",
+      "category": 1010,
+      "coordinates": [
+        26.09332618819884,
+        52.120324580784626
+      ],
+      "images": [
+        {
+          "id": "8217822631"
+        },
+        {
+          "id": "8245672416"
+        },
+        {
+          "id": "8229325915"
+        },
+        {
+          "id": "8216734789"
+        },
+        {
+          "id": "4451770031"
+        },
+        {
+          "id": "4489743361"
+        },
+        {
+          "id": "9441526081"
+        },
+        {
+          "id": "4436219475"
+        },
+        {
+          "id": "8233185434"
+        }
+      ],
+      "list_id": 38774779,
+      "list_time": "2018-10-11T15:37:00Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 25,
+      "size_area": 0,
+      "subject": "Комфортная, уютная квартира- студия по Суткам",
+      "tmp_blocket_url": "https://www.kufar.by/vi/38774779.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 44632117,
+      "address": "Витебск улица Володарского 127 Витебский городской Совет Витебская область",
+      "category": 1010,
+      "coordinates": [
+        30.223302841186527,
+        55.215425140613135
+      ],
+      "images": [
+        {
+          "id": "6003412351"
+        },
+        {
+          "id": "6088645541"
+        },
+        {
+          "id": "6039681311"
+        },
+        {
+          "id": "6033437820"
+        },
+        {
+          "id": "6088361980"
+        },
+        {
+          "id": "6024735084"
+        },
+        {
+          "id": "6025822926"
+        },
+        {
+          "id": "6088957973"
+        },
+        {
+          "id": "6062300174"
+        }
+      ],
+      "list_id": 39636631,
+      "list_time": "2018-10-22T14:46:09Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 34,
+      "size_area": 0,
+      "subject": "1-ком. меблированная с быт. тех. на длительный сро",
+      "tmp_blocket_url": "https://www.kufar.by/vi/39636631.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 49523734,
+      "address": "Беларусь, Минск, улица Карла Маркса, 8",
+      "category": 1010,
+      "coordinates": [
+        27.554384,
+        53.89623
+      ],
+      "images": [
+        {
+          "id": "2714488055"
+        },
+        {
+          "id": "2770783618"
+        },
+        {
+          "id": "2780394779"
+        },
+        {
+          "id": "2785550428"
+        },
+        {
+          "id": "2711120385"
+        },
+        {
+          "id": "2771871460"
+        },
+        {
+          "id": "2763348141"
+        },
+        {
+          "id": "2731534693"
+        },
+        {
+          "id": "2704876894"
+        }
+      ],
+      "list_id": 44103804,
+      "list_time": "2018-10-11T12:17:37Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "8500",
+      "price_usd": "4014",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 65,
+      "size_area": 0,
+      "subject": "Квартира в центре Минска",
+      "tmp_blocket_url": "https://www.kufar.by/vi/44103804.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 50010274,
+      "address": "Беларусь, Гомель, Речицкий проспект",
+      "category": 1010,
+      "coordinates": [
+        30.937736,
+        52.409149
+      ],
+      "images": [
+        {
+          "id": "0450860763"
+        },
+        {
+          "id": "4127542635"
+        },
+        {
+          "id": "4149148929"
+        },
+        {
+          "id": "4137853933"
+        },
+        {
+          "id": "0321730417"
+        },
+        {
+          "id": "0326394217"
+        },
+        {
+          "id": "4117723186"
+        },
+        {
+          "id": "0443425286"
+        },
+        {
+          "id": "0493477358"
+        }
+      ],
+      "list_id": 44555516,
+      "list_time": "2018-10-28T18:11:01Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2200",
+      "price_usd": "1039",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира по проспекту Речицкому",
+      "tmp_blocket_url": "https://www.kufar.by/vi/44555516.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 50282727,
+      "address": "Беларусь, Могилёв, улица Крупская",
+      "category": 1010,
+      "coordinates": [
+        30.307693,
+        53.912277
+      ],
+      "images": [
+        {
+          "id": "4582121573"
+        },
+        {
+          "id": "4532173645"
+        },
+        {
+          "id": "4519686663"
+        },
+        {
+          "id": "4553779939"
+        },
+        {
+          "id": "5085372722"
+        },
+        {
+          "id": "5011538672"
+        },
+        {
+          "id": "5048611913"
+        },
+        {
+          "id": "5075969849"
+        },
+        {
+          "id": "5026617914"
+        }
+      ],
+      "list_id": 44807688,
+      "list_time": "2018-09-22T10:52:09Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2000",
+      "price_usd": "944",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Квартира на сутки , часы , недели, месяцы",
+      "tmp_blocket_url": "https://www.kufar.by/vi/44807688.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 50326446,
+      "address": "Беларусь, Гомель, Советская улица, 125Б",
+      "category": 1010,
+      "coordinates": [
+        30.98814,
+        52.464627
+      ],
+      "images": [
+        {
+          "id": "4583486663"
+        },
+        {
+          "id": "4502217136"
+        },
+        {
+          "id": "4556232871"
+        },
+        {
+          "id": "4524419423"
+        },
+        {
+          "id": "4557424857"
+        },
+        {
+          "id": "4500041452"
+        },
+        {
+          "id": "4593797961"
+        },
+        {
+          "id": "4587554470"
+        },
+        {
+          "id": "0411224133"
+        }
+      ],
+      "list_id": 44848484,
+      "list_time": "2018-10-29T13:01:47Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": "ribbons_bestseller"
+      },
+      "price_byn": "1500",
+      "price_usd": "708",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира(комната)для студентов на время сессии",
+      "tmp_blocket_url": "https://www.kufar.by/vi/44848484.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 50908118,
+      "address": "Беларусь, Гомель, улица Гагарина",
+      "category": 1010,
+      "coordinates": [
+        31.00263,
+        52.422101
+      ],
+      "images": [
+        {
+          "id": "5406904912"
+        },
+        {
+          "id": "5462714817"
+        },
+        {
+          "id": "5406413063"
+        },
+        {
+          "id": "5476879443"
+        },
+        {
+          "id": "2205054527"
+        }
+      ],
+      "list_id": 45383879,
+      "list_time": "2018-10-25T15:50:12Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2500",
+      "price_usd": "1180",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31,
+      "size_area": 0,
+      "subject": "Сдам квартиру на часы/сутки в центре Гомеля",
+      "tmp_blocket_url": "https://www.kufar.by/vi/45383879.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 51877366,
+      "address": "Беларусь, Минск, проспект Независимости, 89",
+      "category": 1010,
+      "coordinates": [
+        27.606495,
+        53.923111
+      ],
+      "images": [
+        {
+          "id": "1419734111"
+        },
+        {
+          "id": "6914281803"
+        },
+        {
+          "id": "6961174493"
+        },
+        {
+          "id": "2719593324"
+        },
+        {
+          "id": "2746459411"
+        },
+        {
+          "id": "2705034802"
+        },
+        {
+          "id": "2722185584"
+        }
+      ],
+      "list_id": 46273975,
+      "list_time": "2018-09-02T06:47:30Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "5000",
+      "price_usd": "2361",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31,
+      "size_area": 0,
+      "subject": "Квартира на сутки, проспект Независимости",
+      "tmp_blocket_url": "https://www.kufar.by/vi/46273975.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 52898696,
+      "address": "Беларусь, Минск, Инструментальный переулок, 17",
+      "category": 1010,
+      "coordinates": [
+        27.610394,
+        53.928068
+      ],
+      "images": [
+        {
+          "id": "2476361670"
+        },
+        {
+          "id": "2490040638"
+        },
+        {
+          "id": "8644340143"
+        },
+        {
+          "id": "8695584201"
+        },
+        {
+          "id": "8676882599"
+        },
+        {
+          "id": "2415222890"
+        },
+        {
+          "id": "8667063150"
+        },
+        {
+          "id": "3306045170"
+        },
+        {
+          "id": "3309516984"
+        }
+      ],
+      "list_id": 47208251,
+      "list_time": "2018-10-05T06:22:30Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "5000",
+      "price_usd": "2361",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31,
+      "size_area": 0,
+      "subject": "Квартира-студия на сутки, ст.м.Парк Челюскинцев",
+      "tmp_blocket_url": "https://www.kufar.by/vi/47208251.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 54291775,
+      "address": "Могилёв Могилёвская область улица Симонова 1А",
+      "category": 1010,
+      "coordinates": [
+        30.308250400000002,
+        53.8752161
+      ],
+      "images": [
+        {
+          "id": "1030508138"
+        },
+        {
+          "id": "1040715292"
+        },
+        {
+          "id": "1034471801"
+        },
+        {
+          "id": "1062321586"
+        },
+        {
+          "id": "1023784138"
+        },
+        {
+          "id": "1018617149"
+        },
+        {
+          "id": "1093162676"
+        }
+      ],
+      "list_id": 48483280,
+      "list_time": "2018-10-04T06:41:34Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2500",
+      "price_usd": "1180",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 56,
+      "size_area": 0,
+      "subject": "2я квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/48483280.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 54418993,
+      "address": "Витебск Витебская область Витебский городской Совет проспект Фрунзе 43",
+      "category": 1010,
+      "coordinates": [
+        30.22982410573367,
+        55.192415249999996
+      ],
+      "images": [
+        {
+          "id": "1282142539"
+        },
+        {
+          "id": "1227038962"
+        },
+        {
+          "id": "1257272719"
+        },
+        {
+          "id": "1259552547"
+        },
+        {
+          "id": "1252117070"
+        },
+        {
+          "id": "1211780303"
+        },
+        {
+          "id": "1254396898"
+        },
+        {
+          "id": "1272635522"
+        },
+        {
+          "id": "1266392031"
+        }
+      ],
+      "list_id": 48599689,
+      "list_time": "2018-10-26T09:21:13Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 44.3,
+      "size_area": 0,
+      "subject": "Квартира на сутки Фрунзе, 43",
+      "tmp_blocket_url": "https://www.kufar.by/vi/48599689.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 54696589,
+      "address": "Минск Сторожовская улица 8",
+      "category": 1010,
+      "coordinates": [
+        27.5561994,
+        53.912095
+      ],
+      "images": [
+        {
+          "id": "1678315144"
+        },
+        {
+          "id": "1644817861"
+        },
+        {
+          "id": "1638574370"
+        },
+        {
+          "id": "1667616141"
+        },
+        {
+          "id": "1661372650"
+        },
+        {
+          "id": "1649973510"
+        },
+        {
+          "id": "1617072220"
+        },
+        {
+          "id": "1655725152"
+        },
+        {
+          "id": "1617668213"
+        }
+      ],
+      "list_id": 48856334,
+      "list_time": "2018-10-04T15:01:45Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "6500",
+      "price_usd": "3069",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 37,
+      "size_area": 0,
+      "subject": "Посуточно однокомнатная квартира на Немиге",
+      "tmp_blocket_url": "https://www.kufar.by/vi/48856334.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 55293149,
+      "address": "Брестская область",
+      "category": 1010,
+      "coordinates": [
+        25.2547709,
+        52.4121685
+      ],
+      "images": [
+        {
+          "id": "2741852372"
+        },
+        {
+          "id": "2701515605"
+        },
+        {
+          "id": "2727085562"
+        },
+        {
+          "id": "2796464100"
+        },
+        {
+          "id": "2713510738"
+        },
+        {
+          "id": "2769702157"
+        },
+        {
+          "id": "2795272114"
+        },
+        {
+          "id": "2729365390"
+        },
+        {
+          "id": "7774155579"
+        }
+      ],
+      "list_id": 49401632,
+      "list_time": "2018-09-04T12:22:32Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2800",
+      "price_usd": "1322",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 35,
+      "size_area": 0,
+      "subject": "Сдам на сутки 1комн.квартиру улРокоссовского Брест",
+      "tmp_blocket_url": "https://www.kufar.by/vi/49401632.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 55374807,
+      "address": "Витебск Витебская область Витебский городской Совет проспект Черняховского 17",
+      "category": 1010,
+      "coordinates": [
+        30.19940379538584,
+        55.17623855
+      ],
+      "images": [
+        {
+          "id": "2848331736"
+        },
+        {
+          "id": "2881233026"
+        },
+        {
+          "id": "2898279664"
+        },
+        {
+          "id": "2890948331"
+        },
+        {
+          "id": "2876314536"
+        },
+        {
+          "id": "2874491495"
+        },
+        {
+          "id": "2883014814"
+        },
+        {
+          "id": "2890346147"
+        }
+      ],
+      "list_id": 49476311,
+      "list_time": "2018-10-11T09:45:49Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "50000",
+      "price_usd": "23609",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 42,
+      "size_area": 0,
+      "subject": "Сдаётся в аренду двухкомная квартира в центре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/49476311.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 56252909,
+      "address": "Лида Гродненская область Лидский район Ленинская улица",
+      "category": 1010,
+      "coordinates": [
+        25.2875043,
+        53.8862293
+      ],
+      "images": [
+        {
+          "id": "4363566871"
+        },
+        {
+          "id": "4372194334"
+        },
+        {
+          "id": "4303620077"
+        },
+        {
+          "id": "4308388021"
+        },
+        {
+          "id": "4384010050"
+        },
+        {
+          "id": "4372223205"
+        },
+        {
+          "id": "4317923909"
+        },
+        {
+          "id": "4317536204"
+        }
+      ],
+      "list_id": 50269575,
+      "list_time": "2018-09-30T09:52:54Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/50269575.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 56335286,
+      "address": "Минск Сторожовская улица",
+      "category": 1010,
+      "coordinates": [
+        27.556457519531254,
+        53.91293347110686
+      ],
+      "images": [
+        {
+          "id": "4424008335"
+        },
+        {
+          "id": "4458414043"
+        },
+        {
+          "id": "4470409176"
+        },
+        {
+          "id": "4405694438"
+        },
+        {
+          "id": "4409062108"
+        },
+        {
+          "id": "4495487284"
+        },
+        {
+          "id": "4473284997"
+        },
+        {
+          "id": "4419373406"
+        },
+        {
+          "id": "4406886424"
+        }
+      ],
+      "list_id": 50343967,
+      "list_time": "2018-09-23T08:21:19Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "6500",
+      "price_usd": "3069",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 37,
+      "size_area": 0,
+      "subject": "Однокомнатная квартира на сутки в центре Минска",
+      "tmp_blocket_url": "https://www.kufar.by/vi/50343967.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 56359330,
+      "address": "Гомель Гомельская область проспект Октября",
+      "category": 1010,
+      "coordinates": [
+        30.950042,
+        52.4060025
+      ],
+      "images": [
+        {
+          "id": "4527668761"
+        },
+        {
+          "id": "4548083069"
+        },
+        {
+          "id": "4578808675"
+        }
+      ],
+      "list_id": 50365318,
+      "list_time": "2018-09-06T16:05:27Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2000",
+      "price_usd": "944",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Сдается уютная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/50365318.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 56471357,
+      "address": "Могилёв Могилёвская область бульвар Непокорённых 46",
+      "category": 1010,
+      "coordinates": [
+        30.338491974731028,
+        53.872472099999996
+      ],
+      "images": [
+        {
+          "id": "8001167373"
+        },
+        {
+          "id": "8088888679"
+        },
+        {
+          "id": "8001427212"
+        }
+      ],
+      "list_id": 50466382,
+      "list_time": "2018-10-12T06:27:35Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3500",
+      "price_usd": "1653",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 52,
+      "size_area": 0,
+      "subject": "Могилёв.Квартира на сутки , часы,недели",
+      "tmp_blocket_url": "https://www.kufar.by/vi/50466382.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 56604174,
+      "address": "Витебск Витебская область Витебский городской Совет проспект Генерала Людникова,17",
+      "category": 1010,
+      "coordinates": [
+        30.224158,
+        55.1993911
+      ],
+      "images": [
+        {
+          "id": "1973128411"
+        },
+        {
+          "id": "1959061738"
+        },
+        {
+          "id": "1977792211"
+        },
+        {
+          "id": "1977896355"
+        },
+        {
+          "id": "1914413814"
+        },
+        {
+          "id": "1920657305"
+        },
+        {
+          "id": "1951487055"
+        },
+        {
+          "id": "1990139987"
+        }
+      ],
+      "list_id": 50586897,
+      "list_time": "2018-10-13T12:06:28Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "42000",
+      "price_usd": "19832",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 37.8,
+      "size_area": 0,
+      "subject": "Сдам 1-ую квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/50586897.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 57452890,
+      "address": "Витебск Витебский городской Совет 4-я Садовая улица 22А",
+      "category": 1010,
+      "coordinates": [
+        30.219185260615717,
+        55.204373849999996
+      ],
+      "images": [
+        {
+          "id": "6294546943"
+        },
+        {
+          "id": "6281463968"
+        },
+        {
+          "id": "6250842506"
+        },
+        {
+          "id": "6275220477"
+        },
+        {
+          "id": "6210505739"
+        },
+        {
+          "id": "6273044793"
+        },
+        {
+          "id": "6247370692"
+        },
+        {
+          "id": "6212785567"
+        },
+        {
+          "id": "6221308886"
+        }
+      ],
+      "list_id": 51358736,
+      "list_time": "2018-10-18T09:22:04Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 1-комнатную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51358736.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 57481357,
+      "address": "Речица Речицкий район улица Строителей",
+      "category": 1010,
+      "coordinates": [
+        30.3589349,
+        52.3688159
+      ],
+      "images": [],
+      "list_id": 51384469,
+      "list_time": "2018-10-01T11:20:49Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "800",
+      "price_usd": "378",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира по суткам",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51384469.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 57640904,
+      "address": "Витебск Витебский городской Совет 3-я Садовая улица 30",
+      "category": 1010,
+      "coordinates": [
+        30.218239033688526,
+        55.20537135
+      ],
+      "images": [
+        {
+          "id": "6576835540"
+        },
+        {
+          "id": "6505281318"
+        },
+        {
+          "id": "6538286752"
+        },
+        {
+          "id": "6510928816"
+        },
+        {
+          "id": "6527975454"
+        }
+      ],
+      "list_id": 51532764,
+      "list_time": "2018-10-29T21:33:12Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "45000",
+      "price_usd": "21248",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51532764.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 57739132,
+      "address": "Витебск Витебский городской Совет улица Герцена 13",
+      "category": 1010,
+      "coordinates": [
+        30.18852250959775,
+        55.1844563
+      ],
+      "images": [
+        {
+          "id": "2632402292"
+        },
+        {
+          "id": "2753240104"
+        },
+        {
+          "id": "2748680448"
+        },
+        {
+          "id": "2782773724"
+        },
+        {
+          "id": "2772566570"
+        },
+        {
+          "id": "2750572571"
+        },
+        {
+          "id": "2733734221"
+        },
+        {
+          "id": "2709159302"
+        }
+      ],
+      "list_id": 51624627,
+      "list_time": "2018-10-13T07:29:20Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "26000",
+      "price_usd": "12277",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 44,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира на длительный срок в центре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51624627.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 57952047,
+      "address": "Горки Горецкий район улица Мичурина 4",
+      "category": 1010,
+      "coordinates": [
+        30.99034345,
+        54.2945663
+      ],
+      "images": [],
+      "list_id": 51821902,
+      "list_time": "2018-10-25T11:24:52Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Квартира в центре Академии для студентов-заочников",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51821902.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 57987905,
+      "address": "Витебск микрорайон Юг-7",
+      "category": 1010,
+      "coordinates": [
+        30.21559086978946,
+        55.1604734
+      ],
+      "images": [
+        {
+          "id": "7037376004"
+        },
+        {
+          "id": "7083076708"
+        },
+        {
+          "id": "7085072975"
+        },
+        {
+          "id": "7083985133"
+        }
+      ],
+      "list_id": 51855869,
+      "list_time": "2018-10-24T12:46:44Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Однокомнатная квартира на сутки,неделю",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51855869.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58071700,
+      "address": "Богатырева",
+      "category": 1010,
+      "coordinates": [
+        30.271689,
+        55.16811
+      ],
+      "images": [
+        {
+          "id": "7127962528"
+        },
+        {
+          "id": "7112599725"
+        },
+        {
+          "id": "7119439209"
+        },
+        {
+          "id": "7128454377"
+        },
+        {
+          "id": "7179102442"
+        },
+        {
+          "id": "7154024334"
+        },
+        {
+          "id": "7162055804"
+        },
+        {
+          "id": "7138169682"
+        },
+        {
+          "id": "7104672399"
+        }
+      ],
+      "list_id": 51933859,
+      "list_time": "2018-10-30T16:09:34Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "35000",
+      "price_usd": "16527",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 65,
+      "size_area": 0,
+      "subject": "2-комнатная квартира Богатырева",
+      "tmp_blocket_url": "https://www.kufar.by/vi/51933859.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58309929,
+      "address": "Витебск Витебский городской Совет улица Терешковой",
+      "category": 1010,
+      "coordinates": [
+        30.2449384,
+        55.1758773
+      ],
+      "images": [],
+      "list_id": 52155792,
+      "list_time": "2018-08-31T21:21:53Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "28000",
+      "price_usd": "13221",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52155792.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58318384,
+      "address": "Козлова 21",
+      "category": 1010,
+      "coordinates": [
+        27.547656,
+        52.785627
+      ],
+      "images": [
+        {
+          "id": "7917569776"
+        },
+        {
+          "id": "7935704256"
+        },
+        {
+          "id": "7952750894"
+        },
+        {
+          "id": "7944227575"
+        },
+        {
+          "id": "7903890808"
+        },
+        {
+          "id": "7960186371"
+        },
+        {
+          "id": "7912414127"
+        }
+      ],
+      "list_id": 52163309,
+      "list_time": "2018-09-01T07:14:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "15000",
+      "price_usd": "7083",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Малосемейная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52163309.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58333197,
+      "address": "ул.Гоголя 44",
+      "category": 1010,
+      "coordinates": [
+        29.219492,
+        53.145046
+      ],
+      "images": [],
+      "list_id": 52177374,
+      "list_time": "2018-09-01T11:20:41Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "17000",
+      "price_usd": "8027",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается 1-комнатная каартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52177374.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58339432,
+      "address": "Витебск Витебский городской Совет улица Кирова 9 Железнодорожный район",
+      "category": 1010,
+      "coordinates": [
+        30.1924036,
+        55.1937171
+      ],
+      "images": [],
+      "list_id": 52182795,
+      "list_time": "2018-09-01T12:53:03Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Аренда",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52182795.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58349727,
+      "address": "Минск Партизанский район ул. Ясная",
+      "category": 1010,
+      "coordinates": [
+        27.661525723910653,
+        53.89692435
+      ],
+      "images": [],
+      "list_id": 52192689,
+      "list_time": "2018-09-01T15:44:41Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "52000",
+      "price_usd": "24554",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 39.6,
+      "size_area": 0,
+      "subject": "Сдаю на длительный срок однокомнатную квартиру  ",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52192689.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58353664,
+      "address": "Сеница Минский район Набережная улица 57А",
+      "category": 1010,
+      "coordinates": [
+        27.51900950704684,
+        53.82390175
+      ],
+      "images": [
+        {
+          "id": "7592178189"
+        },
+        {
+          "id": "7545493787"
+        },
+        {
+          "id": "7524483486"
+        },
+        {
+          "id": "7583058877"
+        },
+        {
+          "id": "7526867458"
+        },
+        {
+          "id": "7583759014"
+        },
+        {
+          "id": "7551945566"
+        }
+      ],
+      "list_id": 52196320,
+      "list_time": "2018-09-01T16:58:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "31300",
+      "price_usd": "14779",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 43,
+      "size_area": 0,
+      "subject": "Аренда",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52196320.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58381721,
+      "address": "Минск улица Карла Либкнехта 122 Московский район",
+      "category": 1010,
+      "coordinates": [
+        27.5081361653605,
+        53.8924441
+      ],
+      "images": [
+        {
+          "id": "7671682295"
+        },
+        {
+          "id": "7652951822"
+        },
+        {
+          "id": "7641656826"
+        },
+        {
+          "id": "7665051099"
+        },
+        {
+          "id": "7629273988"
+        },
+        {
+          "id": "7642356963"
+        },
+        {
+          "id": "7620258820"
+        },
+        {
+          "id": "7629974125"
+        },
+        {
+          "id": "7654456240"
+        }
+      ],
+      "list_id": 52222710,
+      "list_time": "2018-09-02T09:06:29Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "5500",
+      "price_usd": "2597",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 49.5,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира часы.сутки.недели,",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52222710.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58394732,
+      "address": "Бобруйск Красноармейская улица 17",
+      "category": 1010,
+      "coordinates": [
+        29.23441927167279,
+        53.1473868
+      ],
+      "images": [
+        {
+          "id": "7671961688"
+        },
+        {
+          "id": "7637972556"
+        },
+        {
+          "id": "7616962255"
+        },
+        {
+          "id": "7698231782"
+        }
+      ],
+      "list_id": 52235212,
+      "list_time": "2018-09-02T11:49:13Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2700",
+      "price_usd": "1275",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру посуточно",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52235212.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58415906,
+      "address": "Витебск Витебский улица Правды 55А",
+      "category": 1010,
+      "coordinates": [
+        30.229689578977897,
+        55.1835188
+      ],
+      "images": [
+        {
+          "id": "7608611059"
+        },
+        {
+          "id": "7650035668"
+        },
+        {
+          "id": "7660838815"
+        },
+        {
+          "id": "7637548686"
+        },
+        {
+          "id": "7670062271"
+        }
+      ],
+      "list_id": 52254595,
+      "list_time": "2018-09-02T16:03:42Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52254595.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58426412,
+      "address": "Новополоцк улица Янки Купалы 11 Новополоцкий городской Совет Витебская область",
+      "category": 1010,
+      "coordinates": [
+        28.664467334747318,
+        55.52576725318593
+      ],
+      "images": [
+        {
+          "id": "7647925940"
+        },
+        {
+          "id": "7609973145"
+        },
+        {
+          "id": "7653185733"
+        },
+        {
+          "id": "7665180866"
+        },
+        {
+          "id": "7633367418"
+        },
+        {
+          "id": "7634455260"
+        },
+        {
+          "id": "7608989447"
+        }
+      ],
+      "list_id": 52264509,
+      "list_time": "2018-09-02T18:51:25Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32000",
+      "price_usd": "15110",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52264509.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58426969,
+      "address": "Бобруйск Октябрьская улица 111",
+      "category": 1010,
+      "coordinates": [
+        29.2192692,
+        53.138133749999994
+      ],
+      "images": [
+        {
+          "id": "7620475200"
+        },
+        {
+          "id": "7663091795"
+        },
+        {
+          "id": "7631278347"
+        },
+        {
+          "id": "7689749594"
+        },
+        {
+          "id": "7640889508"
+        },
+        {
+          "id": "7627314684"
+        }
+      ],
+      "list_id": 52264937,
+      "list_time": "2018-10-26T13:19:06Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "800",
+      "price_usd": "378",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на сутки в центре Бобруйска",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52264937.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58429458,
+      "address": "Бабиничи Бабиничский сельский Совет Витебский район",
+      "category": 1010,
+      "coordinates": [
+        30.3534946,
+        55.2613561
+      ],
+      "images": [
+        {
+          "id": "7602571688"
+        }
+      ],
+      "list_id": 52267275,
+      "list_time": "2018-09-02T19:44:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 36,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52267275.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58430917,
+      "address": "Гомель улица Мазурова 11",
+      "category": 1010,
+      "coordinates": [
+        31.02400005627819,
+        52.4472188
+      ],
+      "images": [
+        {
+          "id": "7655770760"
+        },
+        {
+          "id": "7660226272"
+        },
+        {
+          "id": "7685796229"
+        },
+        {
+          "id": "7618309814"
+        },
+        {
+          "id": "7626833133"
+        },
+        {
+          "id": "7619501800"
+        },
+        {
+          "id": "7683620545"
+        },
+        {
+          "id": "7653595076"
+        },
+        {
+          "id": "7600667183"
+        }
+      ],
+      "list_id": 52268618,
+      "list_time": "2018-09-19T19:38:48Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "50000",
+      "price_usd": "23609",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 46,
+      "size_area": 0,
+      "subject": "Сдам однокомнатную квартиру.",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52268618.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58452414,
+      "address": "Витебск Витебский городской Совет 1-я Пролетарская улица",
+      "category": 1010,
+      "coordinates": [
+        30.1505259,
+        55.1759141
+      ],
+      "images": [],
+      "list_id": 52288547,
+      "list_time": "2018-09-03T09:08:44Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "23000",
+      "price_usd": "10860",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 55,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52288547.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58452481,
+      "address": "Мозырь Мозырский район бульвар Юности 163",
+      "category": 1010,
+      "coordinates": [
+        29.2121422,
+        52.0319585
+      ],
+      "images": [
+        {
+          "id": "7774486706"
+        },
+        {
+          "id": "7710859810"
+        },
+        {
+          "id": "7736533911"
+        },
+        {
+          "id": "7735341925"
+        },
+        {
+          "id": "7730290420"
+        },
+        {
+          "id": "7755860377"
+        },
+        {
+          "id": "7715523610"
+        },
+        {
+          "id": "7720083266"
+        },
+        {
+          "id": "7714331624"
+        }
+      ],
+      "list_id": 52288605,
+      "list_time": "2018-09-03T09:09:45Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3500",
+      "price_usd": "1653",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "1-я квартира ЛЮКС-класса на сутки в Мозыре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52288605.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58476181,
+      "address": "Лида Лидский район проспект Победы 29",
+      "category": 1010,
+      "coordinates": [
+        25.2967904,
+        53.8934875
+      ],
+      "images": [
+        {
+          "id": "7726398843"
+        },
+        {
+          "id": "7760104414"
+        },
+        {
+          "id": "7766943898"
+        },
+        {
+          "id": "7759016572"
+        }
+      ],
+      "list_id": 52310748,
+      "list_time": "2018-09-03T14:29:23Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "1500",
+      "price_usd": "708",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52310748.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58479767,
+      "address": "Витебск Витебский Московский проспект 76",
+      "category": 1010,
+      "coordinates": [
+        30.24221810862947,
+        55.1770204
+      ],
+      "images": [],
+      "list_id": 52314139,
+      "list_time": "2018-09-03T15:26:18Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "37000",
+      "price_usd": "17471",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52314139.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58491106,
+      "address": "Мядель Мядельский район Набережная улица",
+      "category": 1010,
+      "coordinates": [
+        26.9251447,
+        54.8689206
+      ],
+      "images": [
+        {
+          "id": "7782556181"
+        },
+        {
+          "id": "7705070900"
+        }
+      ],
+      "list_id": 52324811,
+      "list_time": "2018-09-03T18:26:08Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22000",
+      "price_usd": "10388",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 36,
+      "size_area": 0,
+      "subject": "Квартира с евроремонтом и прекрасным видом",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52324811.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58491784,
+      "address": "Витебск улица Вострецова 11 Витебский городской Совет Витебская область",
+      "category": 1010,
+      "coordinates": [
+        30.15583992004395,
+        55.176417051435635
+      ],
+      "images": [],
+      "list_id": 52325369,
+      "list_time": "2018-09-03T18:35:50Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 47,
+      "size_area": 0,
+      "subject": "2-х комн. квартира на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52325369.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58493708,
+      "address": "Лида Лидский район проспект Победы",
+      "category": 1010,
+      "coordinates": [
+        25.2967904,
+        53.8934875
+      ],
+      "images": [],
+      "list_id": 52327155,
+      "list_time": "2018-09-03T19:05:58Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "1000",
+      "price_usd": "472",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на ЛИДБИР",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52327155.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58495358,
+      "address": "Могилёв проспект Димитрова 51",
+      "category": 1010,
+      "coordinates": [
+        30.37771525,
+        53.8747939
+      ],
+      "images": [
+        {
+          "id": "7706881559"
+        },
+        {
+          "id": "7734731344"
+        }
+      ],
+      "list_id": 52328690,
+      "list_time": "2018-09-03T19:32:54Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "24000",
+      "price_usd": "11333",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 58,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52328690.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58509426,
+      "address": "Могилёв улица Залуцкого 4",
+      "category": 1010,
+      "coordinates": [
+        30.381144,
+        53.873446
+      ],
+      "images": [],
+      "list_id": 52341458,
+      "list_time": "2018-09-04T06:48:58Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 53,
+      "size_area": 0,
+      "subject": "Сдаю квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52341458.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58526264,
+      "address": "Витебск Витебский городской Совет проспект Фрунзе 69",
+      "category": 1010,
+      "coordinates": [
+        30.238430191872038,
+        55.194383450000004
+      ],
+      "images": [
+        {
+          "id": "7826041910"
+        },
+        {
+          "id": "7890756648"
+        },
+        {
+          "id": "7841508857"
+        },
+        {
+          "id": "7821690542"
+        },
+        {
+          "id": "7892156922"
+        },
+        {
+          "id": "7830109717"
+        },
+        {
+          "id": "7821094549"
+        }
+      ],
+      "list_id": 52357980,
+      "list_time": "2018-09-04T10:20:22Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "31500",
+      "price_usd": "14874",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31,
+      "size_area": 0,
+      "subject": "Однокомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52357980.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58533915,
+      "address": "Слоним Слонимский район Брестская улица",
+      "category": 1010,
+      "coordinates": [
+        25.2652664,
+        53.0704185
+      ],
+      "images": [],
+      "list_id": 52364947,
+      "list_time": "2018-09-04T11:50:53Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "13000",
+      "price_usd": "6138",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 64,
+      "size_area": 0,
+      "subject": "Квартира на длительный срок , Брестская , г СЛоним",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52364947.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58538852,
+      "address": "Гомель Мандарин Плаза",
+      "category": 1010,
+      "coordinates": [
+        31.0131698,
+        52.4238936
+      ],
+      "images": [
+        {
+          "id": "7847131530"
+        },
+        {
+          "id": "7857934677"
+        },
+        {
+          "id": "7883504634"
+        },
+        {
+          "id": "7805110928"
+        }
+      ],
+      "list_id": 52369201,
+      "list_time": "2018-09-04T12:44:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "23000",
+      "price_usd": "10860",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира 1 комн.напротив ТЦ Мандарин плаза",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52369201.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58548609,
+      "address": "Янки Купалы",
+      "category": 1010,
+      "coordinates": [
+        28.661495,
+        55.526735
+      ],
+      "images": [
+        {
+          "id": "7838026623"
+        },
+        {
+          "id": "7810252111"
+        },
+        {
+          "id": "7846549942"
+        },
+        {
+          "id": "7859112197"
+        },
+        {
+          "id": "7883490168"
+        },
+        {
+          "id": "7855073261"
+        },
+        {
+          "id": "7872119899"
+        },
+        {
+          "id": "7863596580"
+        },
+        {
+          "id": "7892013487"
+        }
+      ],
+      "list_id": 52378298,
+      "list_time": "2018-09-04T15:05:55Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "24000",
+      "price_usd": "11333",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52378298.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58550261,
+      "address": "Могилёв улица Гришина 61А",
+      "category": 1010,
+      "coordinates": [
+        30.3564944,
+        53.927315500000006
+      ],
+      "images": [],
+      "list_id": 52379812,
+      "list_time": "2018-09-04T15:35:00Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "29000",
+      "price_usd": "13693",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 48,
+      "size_area": 0,
+      "subject": "Квартира на улице Гришина",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52379812.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58551314,
+      "address": "Новополоцк Новополоцкий городской Совет Парковая улица",
+      "category": 1010,
+      "coordinates": [
+        28.6527317,
+        55.5375263
+      ],
+      "images": [
+        {
+          "id": "7833026669"
+        },
+        {
+          "id": "7880307064"
+        },
+        {
+          "id": "7844142248"
+        },
+        {
+          "id": "7807665000"
+        },
+        {
+          "id": "7837794613"
+        },
+        {
+          "id": "7831551122"
+        },
+        {
+          "id": "7813416642"
+        },
+        {
+          "id": "7841266427"
+        },
+        {
+          "id": "7820852119"
+        }
+      ],
+      "list_id": 52380804,
+      "list_time": "2018-09-04T15:53:22Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Двухкомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52380804.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58555761,
+      "address": "Могилёв проспект Димитрова 57",
+      "category": 1010,
+      "coordinates": [
+        30.38318459905114,
+        53.876722349999994
+      ],
+      "images": [
+        {
+          "id": "7854758745"
+        },
+        {
+          "id": "7876961032"
+        },
+        {
+          "id": "7819577627"
+        },
+        {
+          "id": "7845147584"
+        },
+        {
+          "id": "7853670903"
+        },
+        {
+          "id": "7806986501"
+        },
+        {
+          "id": "7866649734"
+        },
+        {
+          "id": "7864474050"
+        },
+        {
+          "id": "7891131849"
+        }
+      ],
+      "list_id": 52392753,
+      "list_time": "2018-09-04T19:16:57Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "37600",
+      "price_usd": "17754",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 54,
+      "size_area": 0,
+      "subject": "Аренда квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52392753.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58560444,
+      "address": "Минск Братская улица Октябрьский район",
+      "category": 1010,
+      "coordinates": [
+        27.5541663,
+        53.8705768
+      ],
+      "images": [
+        {
+          "id": "7849919635"
+        },
+        {
+          "id": "8209624187"
+        }
+      ],
+      "list_id": 52389185,
+      "list_time": "2018-09-04T18:17:31Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 71,
+      "size_area": 0,
+      "subject": "Аренда квартиры под офис",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52389185.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58561709,
+      "address": "северная",
+      "category": 1010,
+      "coordinates": [
+        30.58132,
+        53.70938
+      ],
+      "images": [],
+      "list_id": 52390335,
+      "list_time": "2018-09-04T18:37:22Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "500",
+      "price_usd": "236",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается квартира посуточно",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52390335.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58573920,
+      "address": "Витебск парк Фрунзе Витебский городской Совет проспект Фрунзе 43А",
+      "category": 1010,
+      "coordinates": [
+        30.231799415651878,
+        55.1920557
+      ],
+      "images": [
+        {
+          "id": "7933400889"
+        },
+        {
+          "id": "7901691585"
+        },
+        {
+          "id": "7911302746"
+        },
+        {
+          "id": "7910214904"
+        },
+        {
+          "id": "7919826065"
+        },
+        {
+          "id": "7928349384"
+        },
+        {
+          "id": "7984540803"
+        },
+        {
+          "id": "7927261542"
+        },
+        {
+          "id": "7974437793"
+        }
+      ],
+      "list_id": 52401516,
+      "list_time": "2018-09-05T05:15:01Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Сдается 2-х комнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52401516.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58601433,
+      "address": "Витебск Витебский городской Совет улица Берестеня 7",
+      "category": 1010,
+      "coordinates": [
+        30.239817,
+        55.198006
+      ],
+      "images": [],
+      "list_id": 52426923,
+      "list_time": "2018-09-05T11:20:02Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "1-комнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52426923.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58609030,
+      "address": "Барановичи Университетский городок Комсомольская улица,19",
+      "category": 1010,
+      "coordinates": [
+        25.9929432,
+        53.1251093
+      ],
+      "images": [
+        {
+          "id": "7954761627"
+        },
+        {
+          "id": "7999895209"
+        },
+        {
+          "id": "7936476601"
+        },
+        {
+          "id": "7911994486"
+        }
+      ],
+      "list_id": 52434129,
+      "list_time": "2018-09-05T12:53:18Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 29,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52434129.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58635076,
+      "address": "Горки Горецкий район Интернациональный проспект 16",
+      "category": 1010,
+      "coordinates": [
+        30.986693575035275,
+        54.299607300000005
+      ],
+      "images": [],
+      "list_id": 52458336,
+      "list_time": "2018-09-05T19:36:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "500",
+      "price_usd": "236",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается 1-я квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52458336.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58637202,
+      "address": "Светлогорск Молодёжный микрорайон",
+      "category": 1010,
+      "coordinates": [
+        29.721702405518997,
+        52.62536445
+      ],
+      "images": [],
+      "list_id": 52460296,
+      "list_time": "2018-09-05T20:16:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 49.2,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52460296.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58684425,
+      "address": "Гомель улица Богданова",
+      "category": 1010,
+      "coordinates": [
+        30.9751716,
+        52.4553883
+      ],
+      "images": [],
+      "list_id": 52504042,
+      "list_time": "2018-09-06T15:08:24Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "21300",
+      "price_usd": "10058",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира по ул. Богданова 16",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52504042.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58692308,
+      "address": "Гомель проспект Октября 73",
+      "category": 1010,
+      "coordinates": [
+        30.948161575613604,
+        52.404521349999996
+      ],
+      "images": [
+        {
+          "id": "8041295791"
+        },
+        {
+          "id": "8088576186"
+        },
+        {
+          "id": "8045467742"
+        },
+        {
+          "id": "8081348997"
+        }
+      ],
+      "list_id": 52511423,
+      "list_time": "2018-09-06T17:33:27Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "23000",
+      "price_usd": "10860",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52511423.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58696591,
+      "address": "Гомель улица 50 лет Заводу Гомсельмаш",
+      "category": 1010,
+      "coordinates": [
+        30.9562438,
+        52.4490808
+      ],
+      "images": [
+        {
+          "id": "8065041665"
+        },
+        {
+          "id": "8061078002"
+        },
+        {
+          "id": "8049783006"
+        },
+        {
+          "id": "8076440805"
+        },
+        {
+          "id": "8020949523"
+        },
+        {
+          "id": "8014706032"
+        },
+        {
+          "id": "8076544949"
+        },
+        {
+          "id": "8055534648"
+        },
+        {
+          "id": "8011830211"
+        }
+      ],
+      "list_id": 52515368,
+      "list_time": "2018-09-06T18:50:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "26000",
+      "price_usd": "12277",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 47,
+      "size_area": 0,
+      "subject": "2комн.квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52515368.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58709934,
+      "address": "Глубокое улица Ленина 5 кв.8",
+      "category": 1010,
+      "coordinates": [
+        27.692225745411022,
+        55.139815549999994
+      ],
+      "images": [],
+      "list_id": 52527570,
+      "list_time": "2018-09-07T06:25:50Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "12000",
+      "price_usd": "5666",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 38,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52527570.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58714497,
+      "address": "Витебск микрорайон Юг-6",
+      "category": 1010,
+      "coordinates": [
+        30.217334641660898,
+        55.1665107
+      ],
+      "images": [],
+      "list_id": 52531629,
+      "list_time": "2018-09-07T07:30:33Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 42,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52531629.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58715384,
+      "address": "Воинов Интернационалистов 3",
+      "category": 1010,
+      "coordinates": [
+        30.204199,
+        55.163718
+      ],
+      "images": [],
+      "list_id": 52532576,
+      "list_time": "2018-09-07T07:43:41Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32000",
+      "price_usd": "15110",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Уютная квартира с ремонтом возле ТЦ Грин",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52532576.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58747103,
+      "address": "Гомель улица Косарева 5",
+      "category": 1010,
+      "coordinates": [
+        30.918633150000005,
+        52.40885005
+      ],
+      "images": [
+        {
+          "id": "8139029143"
+        },
+        {
+          "id": "8270657903"
+        },
+        {
+          "id": "8233196957"
+        }
+      ],
+      "list_id": 52561914,
+      "list_time": "2018-09-07T15:25:11Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "700",
+      "price_usd": "331",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 56,
+      "size_area": 0,
+      "subject": "Квартира для студентов-заочников",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52561914.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58748247,
+      "address": "Гомель Гомельский район Речицкий проспект Советский район",
+      "category": 1010,
+      "coordinates": [
+        30.938032,
+        52.413604
+      ],
+      "images": [
+        {
+          "id": "9413870506"
+        },
+        {
+          "id": "9498015854"
+        },
+        {
+          "id": "9471954048"
+        },
+        {
+          "id": "9479985518"
+        },
+        {
+          "id": "9463534873"
+        },
+        {
+          "id": "9429545741"
+        },
+        {
+          "id": "9481281648"
+        },
+        {
+          "id": "9469922719"
+        }
+      ],
+      "list_id": 52562994,
+      "list_time": "2018-09-07T15:47:11Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 32,
+      "size_area": 0,
+      "subject": "Сдам квартиру в Гомеле",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52562994.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58758106,
+      "address": "Минск улица Якубова Ленинский район",
+      "category": 1010,
+      "coordinates": [
+        27.5850509,
+        53.8653367
+      ],
+      "images": [
+        {
+          "id": "8121990719"
+        },
+        {
+          "id": "8136653385"
+        },
+        {
+          "id": "8130514038"
+        }
+      ],
+      "list_id": 52595937,
+      "list_time": "2018-09-08T09:57:29Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "12500",
+      "price_usd": "5902",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 41,
+      "size_area": 0,
+      "subject": "Квартира в Серебрянке подселение",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52595937.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58768214,
+      "address": "Улуковье Новая улица Улуковский сельский Совет Гомельский район Гомельская область",
+      "category": 1010,
+      "coordinates": [
+        31.103699177371368,
+        52.40517992377306
+      ],
+      "images": [],
+      "list_id": 52581393,
+      "list_time": "2018-09-08T05:38:09Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "12000",
+      "price_usd": "5666",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 52,
+      "size_area": 0,
+      "subject": "Квартира в д. Берёзки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52581393.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58772117,
+      "address": "Минск улица Мирошниченко 16 к1 п5 Советский район",
+      "category": 1010,
+      "coordinates": [
+        27.61864037510543,
+        53.9605714
+      ],
+      "images": [
+        {
+          "id": "8738826685"
+        },
+        {
+          "id": "8742402643"
+        },
+        {
+          "id": "8748402784"
+        },
+        {
+          "id": "8718481459"
+        },
+        {
+          "id": "8700451123"
+        },
+        {
+          "id": "8732860564"
+        }
+      ],
+      "list_id": 52584713,
+      "list_time": "2018-09-08T06:57:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "55000",
+      "price_usd": "25970",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 33,
+      "size_area": 0,
+      "subject": "1к квартира от 1 год",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52584713.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58772615,
+      "address": "Витебск, ул. Берестеня",
+      "category": 1010,
+      "coordinates": [
+        30.2070437,
+        55.1930197
+      ],
+      "images": [
+        {
+          "id": "8281276484"
+        },
+        {
+          "id": "8292079631"
+        },
+        {
+          "id": "8242027559"
+        },
+        {
+          "id": "8274928849"
+        },
+        {
+          "id": "8227260749"
+        },
+        {
+          "id": "8211406097"
+        },
+        {
+          "id": "8221017258"
+        },
+        {
+          "id": "8235292219"
+        },
+        {
+          "id": "8220525409"
+        }
+      ],
+      "list_id": 52585109,
+      "list_time": "2018-09-08T07:05:59Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 1 комнатную квартиру по ул. Берестеня",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52585109.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58781736,
+      "address": "Гомель улица Плеханова 41",
+      "category": 1010,
+      "coordinates": [
+        31.00411354378562,
+        52.41627105
+      ],
+      "images": [
+        {
+          "id": "8275800128"
+        },
+        {
+          "id": "8200982380"
+        },
+        {
+          "id": "8288391254"
+        },
+        {
+          "id": "8269660781"
+        },
+        {
+          "id": "8275024718"
+        }
+      ],
+      "list_id": 52593602,
+      "list_time": "2018-09-08T09:21:11Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "35000",
+      "price_usd": "16527",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Меблированная 2 комн. квартира па Зипе",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52593602.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58791751,
+      "address": "Пинск Вишевичи Пинский район Лунинецкая улица",
+      "category": 1010,
+      "coordinates": [
+        26.1525993,
+        52.1346546
+      ],
+      "images": [],
+      "list_id": 52603463,
+      "list_time": "2018-09-08T11:52:01Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "8000",
+      "price_usd": "3778",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира в д.Пинковичи",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52603463.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58812515,
+      "address": "Гомель улица Братьев Лизюковых",
+      "category": 1010,
+      "coordinates": [
+        30.9512165,
+        52.4026952
+      ],
+      "images": [],
+      "list_id": 52622365,
+      "list_time": "2018-09-08T17:16:13Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52622365.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58827294,
+      "address": "Мозырь Мозырский район Страконицкий бульвар 18 к1",
+      "category": 1010,
+      "coordinates": [
+        29.23392347072612,
+        52.0312574
+      ],
+      "images": [
+        {
+          "id": "8356113603"
+        },
+        {
+          "id": "8358497575"
+        },
+        {
+          "id": "8341942786"
+        },
+        {
+          "id": "8384559381"
+        },
+        {
+          "id": "8325596285"
+        },
+        {
+          "id": "8384171676"
+        },
+        {
+          "id": "8324612587"
+        },
+        {
+          "id": "8370596852"
+        }
+      ],
+      "list_id": 52636102,
+      "list_time": "2018-09-09T05:47:20Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32000",
+      "price_usd": "15110",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 53,
+      "size_area": 0,
+      "subject": "Квартира 2-х комнатная с ремонтом и мебелью",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52636102.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58838666,
+      "address": "Минск улица Лейтенанта Кижеватова 80 к1 Октябрьский район",
+      "category": 1010,
+      "coordinates": [
+        27.5330599,
+        53.8441609
+      ],
+      "images": [],
+      "list_id": 52646412,
+      "list_time": "2018-09-09T08:41:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "45000",
+      "price_usd": "21248",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Недвижимость",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52646412.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58889650,
+      "address": "Нарочь Нарочский сельский Совет Мядельский район Минская область",
+      "category": 1010,
+      "coordinates": [
+        26.699180603027347,
+        54.9136259623502
+      ],
+      "images": [],
+      "list_id": 52694122,
+      "list_time": "2018-09-09T20:31:20Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22000",
+      "price_usd": "10388",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52694122.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58902804,
+      "address": "Витебск Витебский городской Совет Смоленская улица",
+      "category": 1010,
+      "coordinates": [
+        30.2325818,
+        55.1886454
+      ],
+      "images": [],
+      "list_id": 52706178,
+      "list_time": "2018-09-10T07:29:10Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам /продам на длительный срок квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52706178.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58956467,
+      "address": "Витебск улица Калинина 18",
+      "category": 1010,
+      "coordinates": [
+        30.2070437,
+        55.1930197
+      ],
+      "images": [
+        {
+          "id": "8468989886"
+        },
+        {
+          "id": "8403083162"
+        },
+        {
+          "id": "8450259413"
+        },
+        {
+          "id": "8458782732"
+        },
+        {
+          "id": "8467410195"
+        },
+        {
+          "id": "8424793600"
+        },
+        {
+          "id": "8491788166"
+        }
+      ],
+      "list_id": 52756680,
+      "list_time": "2018-09-10T19:50:42Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "28000",
+      "price_usd": "13221",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31.5,
+      "size_area": 0,
+      "subject": "1-комнатная квартира в центре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52756680.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58957463,
+      "address": "Могилёв улица Лазаренко",
+      "category": 1010,
+      "coordinates": [
+        30.3305824,
+        53.8988084
+      ],
+      "images": [],
+      "list_id": 52757441,
+      "list_time": "2018-09-10T20:04:27Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "650",
+      "price_usd": "307",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира в аренду квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52757441.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58966347,
+      "address": "Полоцк Полоцкий район Коммунистическая улица 30",
+      "category": 1010,
+      "coordinates": [
+        28.7862397,
+        55.4854693
+      ],
+      "images": [
+        {
+          "id": "8568428894"
+        },
+        {
+          "id": "8519568808"
+        },
+        {
+          "id": "8550786263"
+        },
+        {
+          "id": "8575164234"
+        },
+        {
+          "id": "8544542772"
+        },
+        {
+          "id": "8581511869"
+        },
+        {
+          "id": "8532651783"
+        }
+      ],
+      "list_id": 52765144,
+      "list_time": "2018-09-11T05:50:03Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "1500",
+      "price_usd": "708",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 45,
+      "size_area": 0,
+      "subject": "Аккуратная квартира на часы сутки и более",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52765144.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58978534,
+      "address": "Минск Запорожская улица 49А Партизанский район",
+      "category": 1010,
+      "coordinates": [
+        27.626779,
+        53.9088855
+      ],
+      "images": [
+        {
+          "id": "9119673267"
+        }
+      ],
+      "list_id": 52776478,
+      "list_time": "2018-09-11T08:30:51Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "52500",
+      "price_usd": "24790",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 41.9,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52776478.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 58990817,
+      "address": "Могилёв Садовая улица",
+      "category": 1010,
+      "coordinates": [
+        30.327749,
+        53.903601
+      ],
+      "images": [
+        {
+          "id": "8555964531"
+        },
+        {
+          "id": "8508192287"
+        },
+        {
+          "id": "8560628331"
+        },
+        {
+          "id": "8594229758"
+        },
+        {
+          "id": "8510888691"
+        },
+        {
+          "id": "8505345337"
+        },
+        {
+          "id": "8540630599"
+        },
+        {
+          "id": "8524075810"
+        }
+      ],
+      "list_id": 52787823,
+      "list_time": "2018-09-11T11:04:48Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "1 комнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52787823.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59022121,
+      "address": "Могилёв улица Крыленко 7",
+      "category": 1010,
+      "coordinates": [
+        30.337384800000002,
+        53.9074719
+      ],
+      "images": [
+        {
+          "id": "8554505351"
+        },
+        {
+          "id": "9754988940"
+        },
+        {
+          "id": "9788306806"
+        },
+        {
+          "id": "9732815524"
+        }
+      ],
+      "list_id": 52816659,
+      "list_time": "2018-09-11T22:28:31Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52816659.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59045129,
+      "address": "Глубокое Глубокский район улица Ленина 8",
+      "category": 1010,
+      "coordinates": [
+        27.692225745411022,
+        55.139815549999994
+      ],
+      "images": [],
+      "list_id": 52837672,
+      "list_time": "2018-09-12T09:32:45Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "12000",
+      "price_usd": "5666",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52837672.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59066396,
+      "address": "Житковичи Житковичский район Приозёрная улица",
+      "category": 1010,
+      "coordinates": [
+        27.8691756,
+        52.2054933
+      ],
+      "images": [
+        {
+          "id": "1027082348"
+        },
+        {
+          "id": "1016030702"
+        },
+        {
+          "id": "1017430976"
+        },
+        {
+          "id": "1077690202"
+        },
+        {
+          "id": "1095332833"
+        },
+        {
+          "id": "1006731973"
+        },
+        {
+          "id": "1019919092"
+        }
+      ],
+      "list_id": 52857365,
+      "list_time": "2018-09-12T14:02:27Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "17000",
+      "price_usd": "8027",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Уютная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52857365.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59082887,
+      "address": "Пинск Студенческая улица 3",
+      "category": 1010,
+      "coordinates": [
+        26.1098705240834,
+        52.1341575
+      ],
+      "images": [
+        {
+          "id": "8641567529"
+        },
+        {
+          "id": "8601230762"
+        },
+        {
+          "id": "8610946067"
+        },
+        {
+          "id": "8612838190"
+        },
+        {
+          "id": "2830758978"
+        }
+      ],
+      "list_id": 52872757,
+      "list_time": "2018-09-12T18:26:20Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "15000",
+      "price_usd": "7083",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 45,
+      "size_area": 0,
+      "subject": "Сдам двухкомнатную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52872757.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59083087,
+      "address": "Новоколосово Новоколосовский сельский Совет Столбцовский район Минская область",
+      "category": 1010,
+      "coordinates": [
+        26.924743652343754,
+        53.51316376914226
+      ],
+      "images": [],
+      "list_id": 52872926,
+      "list_time": "2018-09-12T18:29:23Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "19800",
+      "price_usd": "9349",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 46.1,
+      "size_area": 0,
+      "subject": "Сдам двухкомнатную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52872926.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59089594,
+      "address": "Гомель 8-я Иногородняя улица 2 к7",
+      "category": 1010,
+      "coordinates": [
+        30.94478407413391,
+        52.4413877
+      ],
+      "images": [
+        {
+          "id": "8676776476"
+        },
+        {
+          "id": "8607993931"
+        },
+        {
+          "id": "8685999932"
+        },
+        {
+          "id": "8652502649"
+        },
+        {
+          "id": "8648284296"
+        },
+        {
+          "id": "8687741509"
+        },
+        {
+          "id": "8616187287"
+        },
+        {
+          "id": "8666835352"
+        },
+        {
+          "id": "8897030555"
+        }
+      ],
+      "list_id": 52878944,
+      "list_time": "2018-09-12T20:18:01Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "38000",
+      "price_usd": "17943",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 32,
+      "size_area": 0,
+      "subject": "1-ая квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52878944.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59106627,
+      "address": "Гомель улица Малайчука 21",
+      "category": 1010,
+      "coordinates": [
+        30.997894349999996,
+        52.4590194
+      ],
+      "images": [
+        {
+          "id": "0014494582"
+        },
+        {
+          "id": "0013406740"
+        },
+        {
+          "id": "0026489715"
+        },
+        {
+          "id": "0024314031"
+        },
+        {
+          "id": "0036905157"
+        },
+        {
+          "id": "0009651365"
+        },
+        {
+          "id": "0054756076"
+        }
+      ],
+      "list_id": 52894598,
+      "list_time": "2018-09-13T08:08:39Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "45000",
+      "price_usd": "21248",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 46,
+      "size_area": 0,
+      "subject": "Спрос",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52894598.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59115967,
+      "address": "Могилёв проспект Шмидта",
+      "category": 1010,
+      "coordinates": [
+        30.3100409,
+        53.8874375
+      ],
+      "images": [],
+      "list_id": 52903134,
+      "list_time": "2018-09-13T10:03:06Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "750",
+      "price_usd": "354",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира для заочников",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52903134.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59122546,
+      "address": "Гомель улица Максима Богдановича 20",
+      "category": 1010,
+      "coordinates": [
+        30.9535381,
+        52.4617556
+      ],
+      "images": [
+        {
+          "id": "8738896748"
+        },
+        {
+          "id": "8736825208"
+        },
+        {
+          "id": "8769234649"
+        }
+      ],
+      "list_id": 52909113,
+      "list_time": "2018-09-13T11:32:22Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 2х комнатную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52909113.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59122874,
+      "address": "Барановичи Университетский городок улица Федько 5",
+      "category": 1010,
+      "coordinates": [
+        26.0331662,
+        53.1261395
+      ],
+      "images": [
+        {
+          "id": "8773811836"
+        },
+        {
+          "id": "8707517407"
+        },
+        {
+          "id": "8783243580"
+        },
+        {
+          "id": "8711689358"
+        }
+      ],
+      "list_id": 52909417,
+      "list_time": "2018-09-13T11:36:59Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2200",
+      "price_usd": "1039",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Уютная 1- комн квартира в авиагородке",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52909417.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59128379,
+      "address": "Новогрудок Новогрудский район улица Волчецкого 68",
+      "category": 1010,
+      "coordinates": [
+        25.809723519205036,
+        53.60081135
+      ],
+      "images": [],
+      "list_id": 52915238,
+      "list_time": "2018-09-13T13:01:47Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "16000",
+      "price_usd": "7555",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Однокомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52915238.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59145167,
+      "address": "Солигорск Солигорский район проспект Мира 3",
+      "category": 1010,
+      "coordinates": [
+        27.52114807399523,
+        52.7914152
+      ],
+      "images": [],
+      "list_id": 52930265,
+      "list_time": "2018-09-13T17:31:21Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "24100",
+      "price_usd": "11380",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам однокомнатную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52930265.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59156335,
+      "address": "Ратомка Минский район Спортивная улица",
+      "category": 1010,
+      "coordinates": [
+        27.3492214,
+        53.9381145
+      ],
+      "images": [
+        {
+          "id": "8782264909"
+        },
+        {
+          "id": "8736772493"
+        },
+        {
+          "id": "8786824565"
+        }
+      ],
+      "list_id": 52940616,
+      "list_time": "2018-09-13T21:02:42Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "36000",
+      "price_usd": "16999",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52940616.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59191031,
+      "address": "Новополоцк Новополоцкий городской Совет Молодёжная улица 33",
+      "category": 1010,
+      "coordinates": [
+        28.639630794285168,
+        55.5387804
+      ],
+      "images": [
+        {
+          "id": "9660140909"
+        },
+        {
+          "id": "9633974959"
+        },
+        {
+          "id": "9606721167"
+        },
+        {
+          "id": "9622188114"
+        }
+      ],
+      "list_id": 52972478,
+      "list_time": "2018-09-14T12:35:27Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "17000",
+      "price_usd": "8027",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 1-комнатную квартиру в Новополоцке",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52972478.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59196811,
+      "address": "Горки Горецкий район Интернациональный проспект 30",
+      "category": 1010,
+      "coordinates": [
+        30.98615715,
+        54.30281515
+      ],
+      "images": [
+        {
+          "id": "3451030471"
+        },
+        {
+          "id": "8829169798"
+        },
+        {
+          "id": "8883677382"
+        },
+        {
+          "id": "8817770658"
+        },
+        {
+          "id": "8863263074"
+        },
+        {
+          "id": "8888833031"
+        }
+      ],
+      "list_id": 52977751,
+      "list_time": "2018-09-14T13:59:17Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "650",
+      "price_usd": "307",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 37,
+      "size_area": 0,
+      "subject": "Сдаю квартиру в г Горки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52977751.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59202856,
+      "address": "Витебск Витебский городской Совет улица Петруся Бровки",
+      "category": 1010,
+      "coordinates": [
+        30.2411624,
+        55.1680999
+      ],
+      "images": [
+        {
+          "id": "9388665757"
+        },
+        {
+          "id": "9316515542"
+        },
+        {
+          "id": "9343173341"
+        },
+        {
+          "id": "9380738431"
+        },
+        {
+          "id": "9325634854"
+        },
+        {
+          "id": "9360815972"
+        },
+        {
+          "id": "9367759600"
+        },
+        {
+          "id": "9367163607"
+        },
+        {
+          "id": "9346153306"
+        }
+      ],
+      "list_id": 52983365,
+      "list_time": "2018-09-14T15:40:58Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Уютная квартира с ремонтом",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52983365.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59207709,
+      "address": "Несвиж Минская область",
+      "category": 1010,
+      "coordinates": [
+        26.6817321,
+        53.2188984
+      ],
+      "images": [
+        {
+          "id": "8865539776"
+        },
+        {
+          "id": "8806472536"
+        },
+        {
+          "id": "8841757798"
+        },
+        {
+          "id": "8815591848"
+        }
+      ],
+      "list_id": 52987971,
+      "list_time": "2018-10-15T14:36:58Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "13000",
+      "price_usd": "6138",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается однокомнатная квартира в Несвиже",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52987971.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59209767,
+      "address": "проспект победы",
+      "category": 1010,
+      "coordinates": [
+        30.22291,
+        55.164557
+      ],
+      "images": [
+        {
+          "id": "8887341976"
+        },
+        {
+          "id": "8878818657"
+        },
+        {
+          "id": "8892393481"
+        },
+        {
+          "id": "8883870162"
+        },
+        {
+          "id": "8831150557"
+        },
+        {
+          "id": "8805580600"
+        },
+        {
+          "id": "8869103352"
+        },
+        {
+          "id": "8852056714"
+        },
+        {
+          "id": "8839673876"
+        }
+      ],
+      "list_id": 52989906,
+      "list_time": "2018-09-14T17:34:16Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40500",
+      "price_usd": "19124",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 51,
+      "size_area": 0,
+      "subject": "Аренда квартиры на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52989906.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59216405,
+      "address": "Гомель улица Лазо",
+      "category": 1010,
+      "coordinates": [
+        31.0326724,
+        52.3651424
+      ],
+      "images": [
+        {
+          "id": "9371416900"
+        },
+        {
+          "id": "9385691861"
+        },
+        {
+          "id": "9391339359"
+        },
+        {
+          "id": "9337427768"
+        },
+        {
+          "id": "9350018894"
+        },
+        {
+          "id": "9396107303"
+        },
+        {
+          "id": "9311365962"
+        },
+        {
+          "id": "9386496142"
+        },
+        {
+          "id": "9388775970"
+        }
+      ],
+      "list_id": 52996117,
+      "list_time": "2018-09-14T19:17:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "37000",
+      "price_usd": "17471",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 57,
+      "size_area": 0,
+      "subject": "Сдам в аренду квартиру ",
+      "tmp_blocket_url": "https://www.kufar.by/vi/52996117.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59248286,
+      "address": "Криулина 43",
+      "category": 1010,
+      "coordinates": [
+        30.334248,
+        53.953604
+      ],
+      "images": [
+        {
+          "id": "8967833887"
+        },
+        {
+          "id": "8957730877"
+        },
+        {
+          "id": "8974777515"
+        },
+        {
+          "id": "8941772081"
+        },
+        {
+          "id": "8948073314"
+        },
+        {
+          "id": "8929342841"
+        },
+        {
+          "id": "8986726246"
+        },
+        {
+          "id": "8910016375"
+        }
+      ],
+      "list_id": 53025797,
+      "list_time": "2018-09-15T10:50:28Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "46000",
+      "price_usd": "21721",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 56,
+      "size_area": 0,
+      "subject": "Квартира на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53025797.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59294259,
+      "address": "ул. 50 лет ВЛКСМ",
+      "category": 1010,
+      "coordinates": [
+        26.018624,
+        53.111309
+      ],
+      "images": [
+        {
+          "id": "8957351264"
+        },
+        {
+          "id": "8973310060"
+        }
+      ],
+      "list_id": 53068509,
+      "list_time": "2018-09-15T21:53:07Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53068509.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59313186,
+      "address": "Могилёв улица Орловского",
+      "category": 1010,
+      "coordinates": [
+        30.3356839,
+        53.9219961
+      ],
+      "images": [],
+      "list_id": 53085933,
+      "list_time": "2018-09-16T09:09:52Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 35,
+      "size_area": 0,
+      "subject": "Сдам однокомнатную квартиру на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53085933.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59343564,
+      "address": "Пинск улица Черняховского 24А",
+      "category": 1010,
+      "coordinates": [
+        26.09676757470966,
+        52.110493500000004
+      ],
+      "images": [
+        {
+          "id": "9065230963"
+        },
+        {
+          "id": "9031485181"
+        },
+        {
+          "id": "9090800920"
+        },
+        {
+          "id": "9061863293"
+        },
+        {
+          "id": "9007847558"
+        },
+        {
+          "id": "9047692476"
+        },
+        {
+          "id": "9058987472"
+        },
+        {
+          "id": "9021526526"
+        },
+        {
+          "id": "9067510791"
+        }
+      ],
+      "list_id": 53114566,
+      "list_time": "2018-09-16T14:37:05Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 52,
+      "size_area": 0,
+      "subject": "Сдаю двухкомнатную квартиру в центре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53114566.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59345213,
+      "address": "Орша Оршанский район улица Владимира Ленина",
+      "category": 1010,
+      "coordinates": [
+        30.4498551,
+        54.5429265
+      ],
+      "images": [
+        {
+          "id": "9415588361"
+        },
+        {
+          "id": "9491806383"
+        }
+      ],
+      "list_id": 53116196,
+      "list_time": "2018-09-16T14:56:03Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53116196.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59354172,
+      "address": "Витебск Витебский городской Совет проспект Черняховского 34",
+      "category": 1010,
+      "coordinates": [
+        30.199805629753172,
+        55.17068975
+      ],
+      "images": [],
+      "list_id": 53124416,
+      "list_time": "2018-09-16T16:36:12Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Аренда квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53124416.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59366182,
+      "address": "Витебск Витебский городской Совет проспект Черняховского 42",
+      "category": 1010,
+      "coordinates": [
+        30.199561255934952,
+        55.168634850000004
+      ],
+      "images": [
+        {
+          "id": "9041384991"
+        },
+        {
+          "id": "9045556942"
+        },
+        {
+          "id": "9004028189"
+        },
+        {
+          "id": "9088173537"
+        },
+        {
+          "id": "9013743494"
+        },
+        {
+          "id": "9078562376"
+        }
+      ],
+      "list_id": 53135820,
+      "list_time": "2018-09-16T19:15:31Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 42,
+      "size_area": 0,
+      "subject": "Сдам квартиру на длительное время",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53135820.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59374911,
+      "address": "Горки Горецкий район Интернациональный проспект",
+      "category": 1010,
+      "coordinates": [
+        30.9843,
+        54.3013184
+      ],
+      "images": [
+        {
+          "id": "9141612833"
+        }
+      ],
+      "list_id": 53143838,
+      "list_time": "2018-09-17T04:33:40Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "600",
+      "price_usd": "283",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира стедентам",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53143838.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59381746,
+      "address": "Мир Мирский сельский Совет Кореличский район",
+      "category": 1010,
+      "coordinates": [
+        26.4659132,
+        53.4537435
+      ],
+      "images": [],
+      "list_id": 53149976,
+      "list_time": "2018-09-17T06:51:53Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "15000",
+      "price_usd": "7083",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Двухкомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53149976.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59386524,
+      "address": "Минск улица Карвата 19 Партизанский район",
+      "category": 1010,
+      "coordinates": [
+        27.674269,
+        53.91014325
+      ],
+      "images": [
+        {
+          "id": "9167455992"
+        },
+        {
+          "id": "9145253705"
+        },
+        {
+          "id": "9197822764"
+        },
+        {
+          "id": "9147978980"
+        },
+        {
+          "id": "9108515576"
+        },
+        {
+          "id": "9175018293"
+        },
+        {
+          "id": "9146780803"
+        }
+      ],
+      "list_id": 53155381,
+      "list_time": "2018-09-17T08:11:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "41000",
+      "price_usd": "19360",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 36,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53155381.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59387841,
+      "address": "Гомель улица Карастояновой 14",
+      "category": 1010,
+      "coordinates": [
+        30.960462690618023,
+        52.46176365
+      ],
+      "images": [],
+      "list_id": 53155505,
+      "list_time": "2018-09-17T08:13:34Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 33,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53155505.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59387979,
+      "address": "Несвиж Несвижский район улица 1 Мая",
+      "category": 1010,
+      "coordinates": [
+        26.6723266,
+        53.2201654
+      ],
+      "images": [
+        {
+          "id": "9100118039"
+        }
+      ],
+      "list_id": 53155647,
+      "list_time": "2018-09-17T08:15:14Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53155647.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59388511,
+      "address": "Гомель улица Репина 1",
+      "category": 1010,
+      "coordinates": [
+        31.030280025,
+        52.394261
+      ],
+      "images": [],
+      "list_id": 53156161,
+      "list_time": "2018-09-17T08:20:54Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22500",
+      "price_usd": "10624",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 48,
+      "size_area": 0,
+      "subject": "Квартиру на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53156161.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59423925,
+      "address": "Буйничи Буйничский сельский Совет Могилёвский район улица Орловского 32",
+      "category": 1010,
+      "coordinates": [
+        30.26528695952708,
+        53.85812035
+      ],
+      "images": [
+        {
+          "id": "9118837050"
+        },
+        {
+          "id": "9199614728"
+        },
+        {
+          "id": "9151842484"
+        },
+        {
+          "id": "9152930326"
+        },
+        {
+          "id": "9125184685"
+        }
+      ],
+      "list_id": 53189192,
+      "list_time": "2018-09-17T15:37:51Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "18000",
+      "price_usd": "8499",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53189192.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59432648,
+      "address": "г.Добруш ул Пролетарская д32 кв 25",
+      "category": 1010,
+      "coordinates": [
+        31.014272,
+        52.42416
+      ],
+      "images": [
+        {
+          "id": "9125992031"
+        },
+        {
+          "id": "9168608626"
+        },
+        {
+          "id": "9142546820"
+        },
+        {
+          "id": "9125500182"
+        },
+        {
+          "id": "9182883587"
+        },
+        {
+          "id": "9178919924"
+        }
+      ],
+      "list_id": 53197206,
+      "list_time": "2018-09-17T17:39:15Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "17000",
+      "price_usd": "8027",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 36.6,
+      "size_area": 0,
+      "subject": "Однакомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53197206.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59433505,
+      "address": "Бобруйск улица Крылова 3",
+      "category": 1010,
+      "coordinates": [
+        29.21479857041365,
+        53.156661650000004
+      ],
+      "images": [
+        {
+          "id": "9119250500"
+        },
+        {
+          "id": "9172670242"
+        }
+      ],
+      "list_id": 53197989,
+      "list_time": "2018-09-17T17:50:34Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22000",
+      "price_usd": "10388",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 39,
+      "size_area": 0,
+      "subject": "Недвижимость",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53197989.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59435730,
+      "address": "Могилёв Быховская улица 7А Могилёвская область",
+      "category": 1010,
+      "coordinates": [
+        30.32589197158814,
+        53.89385706349256
+      ],
+      "images": [],
+      "list_id": 53200344,
+      "list_time": "2018-09-17T18:26:05Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "8000",
+      "price_usd": "3778",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Возьму девушку на подселение квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53200344.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59480084,
+      "address": "Гомель улица Герцена 1",
+      "category": 1010,
+      "coordinates": [
+        31.031222377396723,
+        52.39249195
+      ],
+      "images": [
+        {
+          "id": "9269396235"
+        },
+        {
+          "id": "9246210250"
+        }
+      ],
+      "list_id": 53241125,
+      "list_time": "2018-09-18T11:54:31Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "15000",
+      "price_usd": "7083",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53241125.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59482444,
+      "address": "Пинск Центральная улица",
+      "category": 1010,
+      "coordinates": [
+        26.1069444,
+        52.1372708
+      ],
+      "images": [
+        {
+          "id": "9237817862"
+        },
+        {
+          "id": "9297093390"
+        },
+        {
+          "id": "9251600974"
+        }
+      ],
+      "list_id": 53243315,
+      "list_time": "2018-09-18T12:23:13Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3500",
+      "price_usd": "1653",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира по суткам в Пинске",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53243315.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59521048,
+      "address": "Новополоцк Новополоцкий городской Совет Молодёжная улица 33",
+      "category": 1010,
+      "coordinates": [
+        28.639630794285168,
+        55.5387804
+      ],
+      "images": [
+        {
+          "id": "0764140813"
+        },
+        {
+          "id": "0726083874"
+        },
+        {
+          "id": "0780591458"
+        },
+        {
+          "id": "0789114777"
+        },
+        {
+          "id": "0706161415"
+        }
+      ],
+      "list_id": 53279006,
+      "list_time": "2018-09-19T05:10:37Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4500",
+      "price_usd": "2125",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 42,
+      "size_area": 0,
+      "subject": "2 комнатная квартира на сутки в городе Новополоцке",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53279006.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59533069,
+      "address": "Лида Лидский район улица Суворова",
+      "category": 1010,
+      "coordinates": [
+        25.2947156,
+        53.891657
+      ],
+      "images": [],
+      "list_id": 53289957,
+      "list_time": "2018-09-19T08:07:46Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22000",
+      "price_usd": "10388",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 34,
+      "size_area": 0,
+      "subject": "Сдам 1 комнатную квартиру в центре г. Лида",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53289957.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59542688,
+      "address": "Витебск Московский проспект 105 к1 Витебский городской Совет Витебская область",
+      "category": 1010,
+      "coordinates": [
+        30.26943683624268,
+        55.17152763061828
+      ],
+      "images": [],
+      "list_id": 53298995,
+      "list_time": "2018-09-19T10:10:16Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 60,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53298995.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59558599,
+      "address": "Витебск улица Гагарина 31 Витебский городской Совет Витебская область",
+      "category": 1010,
+      "coordinates": [
+        30.22619962692261,
+        55.21066293535851
+      ],
+      "images": [
+        {
+          "id": "9315520443"
+        },
+        {
+          "id": "9332567081"
+        },
+        {
+          "id": "9343734211"
+        },
+        {
+          "id": "9331479239"
+        },
+        {
+          "id": "9364484673"
+        },
+        {
+          "id": "9357049196"
+        },
+        {
+          "id": "9315624587"
+        },
+        {
+          "id": "9352257530"
+        },
+        {
+          "id": "9325235748"
+        }
+      ],
+      "list_id": 53313766,
+      "list_time": "2018-09-19T13:41:15Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32000",
+      "price_usd": "15110",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53313766.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59599554,
+      "address": "Могилёв Каштановая улица 18",
+      "category": 1010,
+      "coordinates": [
+        30.369921292857146,
+        53.9497015
+      ],
+      "images": [
+        {
+          "id": "9411032812"
+        },
+        {
+          "id": "9471783887"
+        },
+        {
+          "id": "9440670576"
+        },
+        {
+          "id": "9497562132"
+        },
+        {
+          "id": "9417976440"
+        },
+        {
+          "id": "9441370713"
+        },
+        {
+          "id": "9423236233"
+        },
+        {
+          "id": "9460801323"
+        },
+        {
+          "id": "9414221065"
+        }
+      ],
+      "list_id": 53351588,
+      "list_time": "2018-09-20T08:17:31Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 55,
+      "size_area": 0,
+      "subject": "Квартира 2-х комнатная. Каштановая, 18",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53351588.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59606758,
+      "address": "Минск улица Смолячкова Советский район",
+      "category": 1010,
+      "coordinates": [
+        27.5856288,
+        53.9110666
+      ],
+      "images": [
+        {
+          "id": "9476694102"
+        },
+        {
+          "id": "9477394239"
+        }
+      ],
+      "list_id": 53358331,
+      "list_time": "2018-09-20T09:56:47Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "44000",
+      "price_usd": "20776",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается 1-комнатная квартира по ул. Смолячкова",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53358331.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59607485,
+      "address": "Минск улица Маяковского Ленинский район",
+      "category": 1010,
+      "coordinates": [
+        27.5702976,
+        53.8690891
+      ],
+      "images": [
+        {
+          "id": "9481218696"
+        }
+      ],
+      "list_id": 53358921,
+      "list_time": "2018-09-20T10:06:16Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается 1-комнатная квартира по ул. Маяковского",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53358921.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59611764,
+      "address": "Барановичи Университетский городок улица Кирова",
+      "category": 1010,
+      "coordinates": [
+        26.04267,
+        53.1438405
+      ],
+      "images": [
+        {
+          "id": "9403320946"
+        },
+        {
+          "id": "9408476595"
+        },
+        {
+          "id": "9455120786"
+        },
+        {
+          "id": "9443761857"
+        },
+        {
+          "id": "9433450559"
+        },
+        {
+          "id": "9447129527"
+        }
+      ],
+      "list_id": 53362891,
+      "list_time": "2018-09-20T11:07:42Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 47,
+      "size_area": 0,
+      "subject": "Большая 1 комн. кв. Новостройка",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53362891.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59612095,
+      "address": "Витебск Витебский городской Совет проспект Строителей 8",
+      "category": 1010,
+      "coordinates": [
+        30.2107029,
+        55.1726012
+      ],
+      "images": [
+        {
+          "id": "9458922563"
+        },
+        {
+          "id": "9489648169"
+        },
+        {
+          "id": "9410166621"
+        },
+        {
+          "id": "9453871058"
+        },
+        {
+          "id": "9472809819"
+        },
+        {
+          "id": "9472317970"
+        }
+      ],
+      "list_id": 53363206,
+      "list_time": "2018-09-20T11:12:44Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 55,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53363206.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59634461,
+      "address": "Гомель Студенческий проезд 11",
+      "category": 1010,
+      "coordinates": [
+        30.929793348086385,
+        52.40525235
+      ],
+      "images": [],
+      "list_id": 53384091,
+      "list_time": "2018-09-20T17:24:03Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2000",
+      "price_usd": "944",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53384091.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59655584,
+      "address": "Орша Оршанский район Дальний переулок 6",
+      "category": 1010,
+      "coordinates": [
+        30.360285127036796,
+        54.50038425
+      ],
+      "images": [
+        {
+          "id": "9597581503"
+        },
+        {
+          "id": "9549809259"
+        },
+        {
+          "id": "9500949173"
+        },
+        {
+          "id": "9586182363"
+        },
+        {
+          "id": "9586286507"
+        },
+        {
+          "id": "9548125424"
+        },
+        {
+          "id": "9545949740"
+        },
+        {
+          "id": "9557840729"
+        }
+      ],
+      "list_id": 53403225,
+      "list_time": "2018-09-21T07:03:39Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 36,
+      "size_area": 0,
+      "subject": "Двухкомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53403225.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59660903,
+      "address": "Витебск Витебский городской Совет проспект Строителей",
+      "category": 1010,
+      "coordinates": [
+        30.209622,
+        55.1723771
+      ],
+      "images": [
+        {
+          "id": "9518312350"
+        },
+        {
+          "id": "9592846537"
+        },
+        {
+          "id": "9509893175"
+        },
+        {
+          "id": "9536550974"
+        },
+        {
+          "id": "9577975583"
+        },
+        {
+          "id": "9503545540"
+        },
+        {
+          "id": "9537638816"
+        }
+      ],
+      "list_id": 53408241,
+      "list_time": "2018-09-21T08:17:18Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4500",
+      "price_usd": "2125",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 65,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53408241.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59674079,
+      "address": "Минск улица Космонавтов 25 Московский район",
+      "category": 1010,
+      "coordinates": [
+        27.459158343321086,
+        53.851254850000004
+      ],
+      "images": [
+        {
+          "id": "9544676229"
+        },
+        {
+          "id": "9553199548"
+        }
+      ],
+      "list_id": 53420414,
+      "list_time": "2018-09-21T11:36:55Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "55000",
+      "price_usd": "25970",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира на космонавтов",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53420414.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59676156,
+      "address": "Светлогорск 63 Светлогорский район Гомельская область",
+      "category": 1010,
+      "coordinates": [
+        29.71963763237,
+        52.63030843246323
+      ],
+      "images": [],
+      "list_id": 53422329,
+      "list_time": "2018-09-21T12:06:34Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "7000",
+      "price_usd": "3305",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53422329.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59691782,
+      "address": "Гомель Волгоградская улица 41",
+      "category": 1010,
+      "coordinates": [
+        30.951268877440008,
+        52.41019060000001
+      ],
+      "images": [],
+      "list_id": 53437082,
+      "list_time": "2018-09-21T16:47:48Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 32,
+      "size_area": 0,
+      "subject": "Аренда квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53437082.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59700295,
+      "address": "Гомель Чечерская улица 3",
+      "category": 1010,
+      "coordinates": [
+        31.036516,
+        52.4636551
+      ],
+      "images": [
+        {
+          "id": "2830125839"
+        },
+        {
+          "id": "2817147008"
+        },
+        {
+          "id": "2833701797"
+        },
+        {
+          "id": "2880386199"
+        },
+        {
+          "id": "2824686629"
+        },
+        {
+          "id": "2893573318"
+        },
+        {
+          "id": "2805568451"
+        },
+        {
+          "id": "2831138408"
+        },
+        {
+          "id": "2881786473"
+        }
+      ],
+      "list_id": 53444952,
+      "list_time": "2018-09-21T19:19:08Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "33000",
+      "price_usd": "15582",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Сдам 1 - ку в Волотове на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53444952.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59734700,
+      "address": "Гомель Привокзальная улица",
+      "category": 1010,
+      "coordinates": [
+        30.9941902,
+        52.428996
+      ],
+      "images": [
+        {
+          "id": "9693728912"
+        },
+        {
+          "id": "9688139156"
+        },
+        {
+          "id": "9605185794"
+        },
+        {
+          "id": "9664849027"
+        },
+        {
+          "id": "9690418984"
+        },
+        {
+          "id": "9697617302"
+        },
+        {
+          "id": "9688735149"
+        },
+        {
+          "id": "9647073381"
+        },
+        {
+          "id": "9644804893"
+        }
+      ],
+      "list_id": 53476975,
+      "list_time": "2018-09-22T11:37:59Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "26000",
+      "price_usd": "12277",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдается квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53476975.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59741025,
+      "address": "Светлогорск Светлогорский район улица 50 лет Октября, дом 41 А",
+      "category": 1010,
+      "coordinates": [
+        29.744468,
+        52.629645
+      ],
+      "images": [
+        {
+          "id": "9630503084"
+        },
+        {
+          "id": "9690270461"
+        },
+        {
+          "id": "9610192920"
+        },
+        {
+          "id": "9613664734"
+        },
+        {
+          "id": "9620012369"
+        },
+        {
+          "id": "9679779746"
+        },
+        {
+          "id": "9657681603"
+        },
+        {
+          "id": "9627060141"
+        },
+        {
+          "id": "9658277596"
+        }
+      ],
+      "list_id": 53482576,
+      "list_time": "2018-09-22T12:50:30Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "24000",
+      "price_usd": "11333",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 52,
+      "size_area": 0,
+      "subject": "Уютная квартира в тихом центре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53482576.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59771089,
+      "address": "Несвиж Несвижский район улица Карла Либкнехта, 120",
+      "category": 1010,
+      "coordinates": [
+        26.6604759,
+        53.2061645
+      ],
+      "images": [],
+      "list_id": 53511036,
+      "list_time": "2018-09-22T19:20:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "16000",
+      "price_usd": "7555",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 36,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53511036.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59775063,
+      "address": "Светлогорск Светлогорский район 58 Молодёжный микрорайон",
+      "category": 1010,
+      "coordinates": [
+        29.722104183445794,
+        52.622506200000004
+      ],
+      "images": [],
+      "list_id": 53514665,
+      "list_time": "2018-09-22T20:30:15Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "8500",
+      "price_usd": "4014",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 34,
+      "size_area": 0,
+      "subject": "Малосемейка",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53514665.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59776549,
+      "address": "Солигорск Солигорский район бульвар Шахтёров 3",
+      "category": 1010,
+      "coordinates": [
+        27.511646382542907,
+        52.7876395
+      ],
+      "images": [],
+      "list_id": 53516050,
+      "list_time": "2018-09-22T21:13:09Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 45.3,
+      "size_area": 0,
+      "subject": "Сдам",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53516050.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59820051,
+      "address": "Могилёв Минское шоссе, напротив Парк сити",
+      "category": 1010,
+      "coordinates": [
+        30.2496948,
+        53.9360456
+      ],
+      "images": [
+        {
+          "id": "9753248466"
+        },
+        {
+          "id": "9703300538"
+        },
+        {
+          "id": "9725398681"
+        },
+        {
+          "id": "9712911699"
+        },
+        {
+          "id": "9714103685"
+        }
+      ],
+      "list_id": 53556707,
+      "list_time": "2018-09-23T12:54:29Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "5000",
+      "price_usd": "2361",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира по суткам",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53556707.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59829104,
+      "address": "Витебск Витебский городской Совет Московский проспект микрорайон Фрунзе",
+      "category": 1010,
+      "coordinates": [
+        30.2591011,
+        55.1742118
+      ],
+      "images": [],
+      "list_id": 53565039,
+      "list_time": "2018-09-23T14:22:49Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53565039.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59835545,
+      "address": "Софьи Панковой",
+      "category": 1010,
+      "coordinates": [
+        24.444614,
+        53.167217
+      ],
+      "images": [
+        {
+          "id": "9733000151"
+        },
+        {
+          "id": "9735175835"
+        },
+        {
+          "id": "9773828767"
+        },
+        {
+          "id": "9752222473"
+        },
+        {
+          "id": "9711393857"
+        }
+      ],
+      "list_id": 53570919,
+      "list_time": "2018-09-23T15:26:37Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 3,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53570919.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59838081,
+      "address": "Гомель Интернациональный проезд 6 Гомельская область",
+      "category": 1010,
+      "coordinates": [
+        31.00104689598084,
+        52.42408011443554
+      ],
+      "images": [
+        {
+          "id": "9762301761"
+        },
+        {
+          "id": "9771421073"
+        },
+        {
+          "id": "9731188450"
+        },
+        {
+          "id": "9778960694"
+        },
+        {
+          "id": "9710282293"
+        }
+      ],
+      "list_id": 53573218,
+      "list_time": "2018-09-23T15:52:23Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "33000",
+      "price_usd": "15582",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 48,
+      "size_area": 0,
+      "subject": "Квартира в центре 2х в аренду",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53573218.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59845236,
+      "address": "Борисов Борисовский район улица Максима Горького 131",
+      "category": 1010,
+      "coordinates": [
+        28.49500175,
+        54.21739805
+      ],
+      "images": [
+        {
+          "id": "9791179562"
+        },
+        {
+          "id": "9735584136"
+        },
+        {
+          "id": "9746387283"
+        },
+        {
+          "id": "9744211599"
+        },
+        {
+          "id": "9780584703"
+        },
+        {
+          "id": "9782864531"
+        },
+        {
+          "id": "9734212733"
+        }
+      ],
+      "list_id": 53580011,
+      "list_time": "2018-09-23T17:07:20Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "42000",
+      "price_usd": "19832",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 62.5,
+      "size_area": 0,
+      "subject": "Сдаю двухкомнатную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53580011.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59859353,
+      "address": "Могилёв улица Якубовского 56",
+      "category": 1010,
+      "coordinates": [
+        30.295821354663104,
+        53.9184154
+      ],
+      "images": [
+        {
+          "id": "9727299999"
+        },
+        {
+          "id": "9709657368"
+        },
+        {
+          "id": "9797766379"
+        },
+        {
+          "id": "9757429612"
+        },
+        {
+          "id": "9714217024"
+        },
+        {
+          "id": "9793802716"
+        },
+        {
+          "id": "9721652501"
+        },
+        {
+          "id": "9739295132"
+        },
+        {
+          "id": "9798958365"
+        }
+      ],
+      "list_id": 53667764,
+      "list_time": "2018-09-24T18:28:12Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 62,
+      "size_area": 0,
+      "subject": "2-х комнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53667764.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59886608,
+      "address": "Новополоцк Двинская улица 2",
+      "category": 1010,
+      "coordinates": [
+        28.62668037414551,
+        55.543899796523995
+      ],
+      "images": [
+        {
+          "id": "9836496546"
+        },
+        {
+          "id": "9888724302"
+        },
+        {
+          "id": "9817766073"
+        },
+        {
+          "id": "9886664102"
+        },
+        {
+          "id": "9840054973"
+        },
+        {
+          "id": "9883817152"
+        },
+        {
+          "id": "9854890865"
+        }
+      ],
+      "list_id": 53621135,
+      "list_time": "2018-09-24T09:42:32Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "12000",
+      "price_usd": "5666",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 56,
+      "size_area": 0,
+      "subject": "Сдается 2-х комнатная квартира на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53621135.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59894896,
+      "address": "Солигорск Солигорский район улица Строителей 43",
+      "category": 1010,
+      "coordinates": [
+        27.53042655000001,
+        52.791701700000004
+      ],
+      "images": [
+        {
+          "id": "9805535804"
+        },
+        {
+          "id": "9827246242"
+        },
+        {
+          "id": "9886313482"
+        },
+        {
+          "id": "9887713756"
+        }
+      ],
+      "list_id": 53627091,
+      "list_time": "2018-09-24T10:44:52Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3500",
+      "price_usd": "1653",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам на сутки и часы уютные квартиры в солигорске",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53627091.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59920176,
+      "address": "Сметанина 18",
+      "category": 1010,
+      "coordinates": [
+        30.173728,
+        55.180742
+      ],
+      "images": [
+        {
+          "id": "9827249246"
+        },
+        {
+          "id": "9858466701"
+        },
+        {
+          "id": "9850047526"
+        },
+        {
+          "id": "9808622917"
+        },
+        {
+          "id": "9868286150"
+        },
+        {
+          "id": "9844996021"
+        },
+        {
+          "id": "9834297018"
+        },
+        {
+          "id": "9868882143"
+        },
+        {
+          "id": "9854711326"
+        }
+      ],
+      "list_id": 53650071,
+      "list_time": "2018-09-24T14:59:40Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "35000",
+      "price_usd": "16527",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам однокомнатную квартиру- студию",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53650071.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59931693,
+      "address": "Витебск улица Чкалова 18 к1 Витебский городской Совет Витебская область",
+      "category": 1010,
+      "coordinates": [
+        30.219633579254154,
+        55.173598661525304
+      ],
+      "images": [
+        {
+          "id": "9877685897"
+        },
+        {
+          "id": "9897012363"
+        },
+        {
+          "id": "9891364865"
+        },
+        {
+          "id": "9836261288"
+        },
+        {
+          "id": "9865303059"
+        },
+        {
+          "id": "9802272156"
+        }
+      ],
+      "list_id": 53661727,
+      "list_time": "2018-10-24T10:08:02Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4500",
+      "price_usd": "2125",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 62,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53661727.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59938127,
+      "address": "Минск улица Солтыса 36 Партизанский район",
+      "category": 1010,
+      "coordinates": [
+        27.659217,
+        53.892771
+      ],
+      "images": [
+        {
+          "id": "3599636604"
+        },
+        {
+          "id": "3560983672"
+        },
+        {
+          "id": "3516683242"
+        },
+        {
+          "id": "3578030310"
+        },
+        {
+          "id": "3586553629"
+        },
+        {
+          "id": "3512123586"
+        },
+        {
+          "id": "3550776518"
+        },
+        {
+          "id": "3559299837"
+        }
+      ],
+      "list_id": 53666816,
+      "list_time": "2018-09-24T18:15:03Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "45000",
+      "price_usd": "21248",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 45,
+      "size_area": 0,
+      "subject": "Сдача 1 к квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53666816.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59944899,
+      "address": "Витебск Витебский городской Совет улица 39-й Армии 22 к2",
+      "category": 1010,
+      "coordinates": [
+        30.12541180551004,
+        55.16917785
+      ],
+      "images": [
+        {
+          "id": "9861850799"
+        },
+        {
+          "id": "9878897437"
+        },
+        {
+          "id": "9852835631"
+        },
+        {
+          "id": "9862550936"
+        }
+      ],
+      "list_id": 53673055,
+      "list_time": "2018-09-24T19:34:44Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "25000",
+      "price_usd": "11805",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Аренда квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53673055.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59954454,
+      "address": "Витебск Витебский городской Совет проспект Фрунзе",
+      "category": 1010,
+      "coordinates": [
+        30.2414439,
+        55.195047
+      ],
+      "images": [
+        {
+          "id": "9933198756"
+        },
+        {
+          "id": "9923587595"
+        }
+      ],
+      "list_id": 53682001,
+      "list_time": "2018-09-25T05:06:39Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4500",
+      "price_usd": "2125",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53682001.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59974806,
+      "address": "пл. Ленина",
+      "category": 1010,
+      "coordinates": [
+        26.102671,
+        52.111478
+      ],
+      "images": [
+        {
+          "id": "2255169551"
+        },
+        {
+          "id": "2285299164"
+        },
+        {
+          "id": "2279055673"
+        },
+        {
+          "id": "2219820356"
+        },
+        {
+          "id": "2262436951"
+        },
+        {
+          "id": "2264716779"
+        }
+      ],
+      "list_id": 53700940,
+      "list_time": "2018-09-25T09:11:57Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2-ух комнатная квартира в центре города",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53700940.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59977381,
+      "address": "Могилёв Казимировка",
+      "category": 1010,
+      "coordinates": [
+        30.2540839,
+        53.9253879
+      ],
+      "images": [],
+      "list_id": 53703396,
+      "list_time": "2018-09-25T09:39:41Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22000",
+      "price_usd": "10388",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53703396.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59977906,
+      "address": "Минск улица Казинца Октябрьский район",
+      "category": 1010,
+      "coordinates": [
+        27.5024834,
+        53.8387577
+      ],
+      "images": [
+        {
+          "id": "9969308834"
+        }
+      ],
+      "list_id": 53703871,
+      "list_time": "2018-09-25T09:45:37Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "37500",
+      "price_usd": "17707",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 43.8,
+      "size_area": 0,
+      "subject": "Сдаю 1-комнатную квартиру по улице Казинца в Минск",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53703871.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 59999915,
+      "address": "Слуцк Слуцкий район улица Чехова",
+      "category": 1010,
+      "coordinates": [
+        27.5605339,
+        53.0484973
+      ],
+      "images": [],
+      "list_id": 53724826,
+      "list_time": "2018-09-25T13:36:34Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 46,
+      "size_area": 0,
+      "subject": "Аренда недвижимости",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53724826.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60005786,
+      "address": "г.Витебск, ул. К.Маркса 32",
+      "category": 1010,
+      "coordinates": [
+        30.173512,
+        55.187738
+      ],
+      "images": [],
+      "list_id": 53729926,
+      "list_time": "2018-09-25T14:42:14Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "24000",
+      "price_usd": "11333",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53729926.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60012569,
+      "address": "Витебск Витебский городской Совет улица 39-й Армии",
+      "category": 1010,
+      "coordinates": [
+        30.1260008,
+        55.1706731
+      ],
+      "images": [],
+      "list_id": 53736312,
+      "list_time": "2018-09-25T16:07:25Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "15000",
+      "price_usd": "7083",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53736312.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60032963,
+      "address": "Новополоцк улица Василевцы д 18",
+      "category": 1010,
+      "coordinates": [
+        28.6995607,
+        55.5118589
+      ],
+      "images": [
+        {
+          "id": "0073987898"
+        },
+        {
+          "id": "0078651698"
+        },
+        {
+          "id": "0011552988"
+        }
+      ],
+      "list_id": 53755790,
+      "list_time": "2018-09-25T20:30:21Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 48,
+      "size_area": 0,
+      "subject": "Сдается благоустроенная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53755790.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60046225,
+      "address": "Нарочь Мядельский район",
+      "category": 1010,
+      "coordinates": [
+        26.70691,
+        54.91027
+      ],
+      "images": [],
+      "list_id": 53767932,
+      "list_time": "2018-09-26T06:57:57Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "1000",
+      "price_usd": "472",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Однокомнатная квартира в К.П. Нарочь",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53767932.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60052980,
+      "address": "аг.Прилуки ул.Мира 29",
+      "category": 1010,
+      "coordinates": [
+        27.457357,
+        53.795247
+      ],
+      "images": [
+        {
+          "id": "0074550852"
+        },
+        {
+          "id": "0096157146"
+        },
+        {
+          "id": "0000612658"
+        },
+        {
+          "id": "0098436974"
+        },
+        {
+          "id": "0061467877"
+        },
+        {
+          "id": "0089034101"
+        },
+        {
+          "id": "0014708202"
+        },
+        {
+          "id": "0000045536"
+        }
+      ],
+      "list_id": 53774157,
+      "list_time": "2018-09-26T08:10:06Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "35600",
+      "price_usd": "16810",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Сдам 1комнатную квартиру в Прилуках АГЕНСТВАМ НЕТ",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53774157.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60068210,
+      "address": "Гомель улица Репина 2",
+      "category": 1010,
+      "coordinates": [
+        31.02979585230024,
+        52.394521100000006
+      ],
+      "images": [
+        {
+          "id": "0042415655"
+        },
+        {
+          "id": "0051043118"
+        },
+        {
+          "id": "0020421656"
+        },
+        {
+          "id": "0020913505"
+        },
+        {
+          "id": "0072157563"
+        }
+      ],
+      "list_id": 53801408,
+      "list_time": "2018-09-26T13:26:14Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "24000",
+      "price_usd": "11333",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2-х комн. квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53801408.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60070485,
+      "address": "Борисов Борисовский район Молодёжная улица",
+      "category": 1010,
+      "coordinates": [
+        28.4868173,
+        54.2390094
+      ],
+      "images": [],
+      "list_id": 53790407,
+      "list_time": "2018-09-26T11:15:51Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "13000",
+      "price_usd": "6138",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 33.6,
+      "size_area": 0,
+      "subject": "Сдам квартипу",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53790407.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60089142,
+      "address": "победы",
+      "category": 1010,
+      "coordinates": [
+        30.22291,
+        55.164557
+      ],
+      "images": [
+        {
+          "id": "0054600442"
+        }
+      ],
+      "list_id": 53807982,
+      "list_time": "2018-09-26T15:00:11Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 60,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53807982.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60090674,
+      "address": "Пинск площадь Ленина 4",
+      "category": 1010,
+      "coordinates": [
+        26.1007818,
+        52.1115729
+      ],
+      "images": [
+        {
+          "id": "0004333891"
+        },
+        {
+          "id": "0012857210"
+        },
+        {
+          "id": "0025240048"
+        },
+        {
+          "id": "0046950486"
+        },
+        {
+          "id": "0077571948"
+        }
+      ],
+      "list_id": 53809410,
+      "list_time": "2018-09-26T15:22:32Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2000",
+      "price_usd": "944",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 30,
+      "size_area": 0,
+      "subject": "Квартира по суткам. Пинск",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53809410.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60090691,
+      "address": "Могилёв улица Сурганова 17",
+      "category": 1010,
+      "coordinates": [
+        30.31367741223356,
+        53.92038465
+      ],
+      "images": [],
+      "list_id": 53809500,
+      "list_time": "2018-09-26T15:24:02Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "22000",
+      "price_usd": "10388",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдаётся однокомнатная квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53809500.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60100677,
+      "address": "Дрогичин Брестская область",
+      "category": 1010,
+      "coordinates": [
+        25.155764,
+        52.188831
+      ],
+      "images": [],
+      "list_id": 53818652,
+      "list_time": "2018-09-26T17:30:40Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру (полуторка). г.Дрогичин, ул.К.Маркса",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53818652.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60102795,
+      "address": "Могилёв бульвар Непокорённых 65",
+      "category": 1010,
+      "coordinates": [
+        30.3375881,
+        53.8695876
+      ],
+      "images": [],
+      "list_id": 53820670,
+      "list_time": "2018-09-26T17:56:08Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 36,
+      "size_area": 0,
+      "subject": "Однокомнатная",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53820670.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60104698,
+      "address": "Могилёв улица Симонова 9",
+      "category": 1010,
+      "coordinates": [
+        30.311770897885033,
+        53.8738889
+      ],
+      "images": [],
+      "list_id": 53822474,
+      "list_time": "2018-09-26T18:19:24Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32000",
+      "price_usd": "15110",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдаю квартиру Симонова",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53822474.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60106126,
+      "address": "Боровляны Минская область, ул. Первомайская д.50",
+      "category": 1010,
+      "coordinates": [
+        27.6677013,
+        53.9981195
+      ],
+      "images": [
+        {
+          "id": "0039145816"
+        }
+      ],
+      "list_id": 53823836,
+      "list_time": "2018-09-26T18:36:31Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32900",
+      "price_usd": "15535",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 64,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53823836.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60114956,
+      "address": "Барановичи Текстильный",
+      "category": 1010,
+      "coordinates": [
+        26.04851945007249,
+        53.14606405
+      ],
+      "images": [],
+      "list_id": 53832110,
+      "list_time": "2018-09-26T20:52:04Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "21000",
+      "price_usd": "9916",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 2 комнатную квартиру на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53832110.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60115417,
+      "address": "Светлогорск Светлогорский район улица Азалова",
+      "category": 1010,
+      "coordinates": [
+        29.7192956,
+        52.6271981
+      ],
+      "images": [],
+      "list_id": 53832594,
+      "list_time": "2018-09-26T21:08:51Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 54,
+      "size_area": 0,
+      "subject": "Сдам 2х Комнатную квартиру с Ремонтом и Мебелью",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53832594.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60122571,
+      "address": "Бобруйск Минская улица 91",
+      "category": 1010,
+      "coordinates": [
+        29.2179075,
+        53.15488835
+      ],
+      "images": [],
+      "list_id": 53839149,
+      "list_time": "2018-09-27T06:20:05Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "20000",
+      "price_usd": "9444",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "2 -ную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53839149.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60125949,
+      "address": "Гомель Бульвар Газеты Гомельская Правда 38",
+      "category": 1010,
+      "coordinates": [
+        31.0306989,
+        52.4502547
+      ],
+      "images": [],
+      "list_id": 53842163,
+      "list_time": "2018-09-27T07:03:21Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 42,
+      "size_area": 0,
+      "subject": "Сдам 1-ную квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53842163.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60127364,
+      "address": "Гомель улица Макаёнка 11",
+      "category": 1010,
+      "coordinates": [
+        31.033557752306955,
+        52.4694086
+      ],
+      "images": [],
+      "list_id": 53844182,
+      "list_time": "2018-09-27T07:29:04Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "26000",
+      "price_usd": "12277",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 1-ую квартиру на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53844182.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60128014,
+      "address": "Могилёв улица Мовчанского",
+      "category": 1010,
+      "coordinates": [
+        30.3661735,
+        53.875587
+      ],
+      "images": [
+        {
+          "id": "0174649603"
+        },
+        {
+          "id": "0122034142"
+        },
+        {
+          "id": "0180505389"
+        },
+        {
+          "id": "0183977203"
+        },
+        {
+          "id": "0122630135"
+        },
+        {
+          "id": "0134521124"
+        },
+        {
+          "id": "0135713110"
+        }
+      ],
+      "list_id": 53844091,
+      "list_time": "2018-09-27T07:28:05Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 37,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53844091.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60145152,
+      "address": "Черняховского 1",
+      "category": 1010,
+      "coordinates": [
+        30.202267,
+        55.181647
+      ],
+      "images": [
+        {
+          "id": "0245090914"
+        },
+        {
+          "id": "0258173889"
+        },
+        {
+          "id": "0259261731"
+        },
+        {
+          "id": "0217732978"
+        }
+      ],
+      "list_id": 53860129,
+      "list_time": "2018-09-27T10:31:21Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2000",
+      "price_usd": "944",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53860129.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60165629,
+      "address": "Барановичи улица Жукова 10 к1",
+      "category": 1010,
+      "coordinates": [
+        26.0079474,
+        53.15138445
+      ],
+      "images": [],
+      "list_id": 53879466,
+      "list_time": "2018-09-27T14:25:43Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "17000",
+      "price_usd": "8027",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 37.5,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53879466.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60189387,
+      "address": "Могилёв Пушкинский проспект 53",
+      "category": 1010,
+      "coordinates": [
+        30.34229765,
+        53.8744171
+      ],
+      "images": [
+        {
+          "id": "0193993417"
+        },
+        {
+          "id": "0128086693"
+        },
+        {
+          "id": "0148501001"
+        },
+        {
+          "id": "0118475532"
+        },
+        {
+          "id": "0144045489"
+        },
+        {
+          "id": "0164459797"
+        },
+        {
+          "id": "0175262944"
+        },
+        {
+          "id": "0183294414"
+        },
+        {
+          "id": "0157128464"
+        }
+      ],
+      "list_id": 53901549,
+      "list_time": "2018-09-27T20:15:42Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "30000",
+      "price_usd": "14166",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру в аренду",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53901549.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60204267,
+      "address": "Энергетиков Дзержинский район улица Маяковского 5",
+      "category": 1010,
+      "coordinates": [
+        27.0514941,
+        53.5921356
+      ],
+      "images": [],
+      "list_id": 53915257,
+      "list_time": "2018-09-28T07:42:28Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "18000",
+      "price_usd": "8499",
+      "property_type": 0,
+      "region": 5,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 48,
+      "size_area": 0,
+      "subject": "Сдам2-х комн.кв-ру в п Энергетиков Дзержинский р-н",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53915257.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60224002,
+      "address": "г. Витебск, пр-т Черняховского д. 6. корп. 4",
+      "category": 1010,
+      "coordinates": [
+        30.204764,
+        55.179807
+      ],
+      "images": [
+        {
+          "id": "0206599807"
+        },
+        {
+          "id": "0209475628"
+        },
+        {
+          "id": "0270330847"
+        }
+      ],
+      "list_id": 53933833,
+      "list_time": "2018-09-28T11:41:19Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "32000",
+      "price_usd": "15110",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 31,
+      "size_area": 0,
+      "subject": "Сдается квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53933833.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60229706,
+      "address": "Калинковичи Калинковичский район улица Фрунзе 21",
+      "category": 1010,
+      "coordinates": [
+        29.3308096,
+        52.13085265
+      ],
+      "images": [
+        {
+          "id": "0264608137"
+        },
+        {
+          "id": "0217536030"
+        }
+      ],
+      "list_id": 53939069,
+      "list_time": "2018-09-28T12:51:56Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "1300",
+      "price_usd": "614",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53939069.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60229800,
+      "address": "Могилёв ул Островского 58",
+      "category": 1010,
+      "coordinates": [
+        30.3429838,
+        53.9090245
+      ],
+      "images": [],
+      "list_id": 53939152,
+      "list_time": "2018-09-28T12:53:02Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "15000",
+      "price_usd": "7083",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53939152.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60239728,
+      "address": "Минск улица Веры Хоружей, дом 21, Советский район",
+      "category": 1010,
+      "coordinates": [
+        27.5812651,
+        53.9163507
+      ],
+      "images": [
+        {
+          "id": "0240452859"
+        },
+        {
+          "id": "0244624810"
+        }
+      ],
+      "list_id": 53948501,
+      "list_time": "2018-09-28T15:15:08Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "10000",
+      "price_usd": "4722",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Аренда на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53948501.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60260733,
+      "address": "Минск улица Шаранговича 59 к1 Фрунзенский район",
+      "category": 1010,
+      "coordinates": [
+        27.4355639,
+        53.8805766
+      ],
+      "images": [
+        {
+          "id": "0261485779"
+        },
+        {
+          "id": "0225708668"
+        }
+      ],
+      "list_id": 53968233,
+      "list_time": "2018-09-28T20:33:42Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "53700",
+      "price_usd": "25357",
+      "property_type": 0,
+      "region": 7,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 43,
+      "size_area": 0,
+      "subject": "Аренда квартиры",
+      "tmp_blocket_url": "https://www.kufar.by/vi/53968233.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60315965,
+      "address": "Витебск Витебский городской Совет улица Чкалова 18",
+      "category": 1010,
+      "coordinates": [
+        30.218984824527226,
+        55.17385805
+      ],
+      "images": [
+        {
+          "id": "0306874910"
+        },
+        {
+          "id": "0375061462"
+        },
+        {
+          "id": "0377937283"
+        },
+        {
+          "id": "0391616251"
+        },
+        {
+          "id": "0376849441"
+        },
+        {
+          "id": "0303611384"
+        },
+        {
+          "id": "0371797936"
+        }
+      ],
+      "list_id": 54020243,
+      "list_time": "2018-09-29T16:01:02Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "5000",
+      "price_usd": "2361",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 50,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54020243.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60318235,
+      "address": "Барановичи Университетский городок улица Космонавтов 4",
+      "category": 1010,
+      "coordinates": [
+        26.04628316902711,
+        53.1458047
+      ],
+      "images": [
+        {
+          "id": "0352169336"
+        },
+        {
+          "id": "0338594512"
+        },
+        {
+          "id": "0328387358"
+        },
+        {
+          "id": "0397274047"
+        }
+      ],
+      "list_id": 54022449,
+      "list_time": "2018-09-29T16:30:36Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "1800",
+      "price_usd": "850",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54022449.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60325734,
+      "address": "Гомель проспект Октября",
+      "category": 1010,
+      "coordinates": [
+        30.9414107,
+        52.4050813
+      ],
+      "images": [],
+      "list_id": 54029491,
+      "list_time": "2018-09-29T18:11:20Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "3000",
+      "price_usd": "1417",
+      "property_type": 0,
+      "region": 2,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 40,
+      "size_area": 0,
+      "subject": "Аренда",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54029491.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60345196,
+      "address": "г. Барановичи",
+      "category": 1010,
+      "coordinates": [
+        25.984955,
+        53.139159
+      ],
+      "images": [],
+      "list_id": 54048279,
+      "list_time": "2018-09-30T07:19:44Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "4000",
+      "price_usd": "1889",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам квартиру в центре",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54048279.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60350627,
+      "address": "Могилёв улица Якубовского 21-11",
+      "category": 1010,
+      "coordinates": [
+        30.3167372,
+        53.9144081
+      ],
+      "images": [
+        {
+          "id": "0479146678"
+        },
+        {
+          "id": "0429412187"
+        },
+        {
+          "id": "0419413321"
+        }
+      ],
+      "list_id": 54052687,
+      "list_time": "2018-09-30T08:14:17Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "2500",
+      "price_usd": "1180",
+      "property_type": 0,
+      "region": 4,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 30,
+      "size_area": 0,
+      "subject": "Квартира на сутки",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54052687.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60399557,
+      "address": "Жабинковский район Брестская область",
+      "category": 1010,
+      "coordinates": [
+        24.132505059242252,
+        52.18833876105626
+      ],
+      "images": [],
+      "list_id": 54098903,
+      "list_time": "2018-09-30T16:52:09Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "12000",
+      "price_usd": "5666",
+      "property_type": 0,
+      "region": 1,
+      "remuneration_type": 1,
+      "rooms": 1,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Сдам 1 комн. квартиру",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54098903.htm",
+      "type": "let"
+    },
+    {
+      "ad_id": 60426521,
+      "address": "Новополоцк",
+      "category": 1010,
+      "coordinates": [
+        28.645089,
+        55.5347704
+      ],
+      "images": [],
+      "list_id": 54124017,
+      "list_time": "2018-10-01T07:08:32Z",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "price_byn": "40000",
+      "price_usd": "18888",
+      "property_type": 0,
+      "region": 6,
+      "remuneration_type": 1,
+      "rooms": 2,
+      "size": 0,
+      "size_area": 0,
+      "subject": "Квартира на длительный срок",
+      "tmp_blocket_url": "https://www.kufar.by/vi/54124017.htm",
+      "type": "let"
+    }
+  ],
+  "pagination": {
+    "pages": [
+      {
+        "label": "self",
+        "num": 1,
+        "token": null
+      },
+      {
+        "label": "next",
+        "num": 2,
+        "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6Mn0="
+      },
+      {
+        "label": "",
+        "num": 3,
+        "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6M30="
+      }
+    ]
+  },
+  "total": 597
+}
