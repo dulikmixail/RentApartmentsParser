@@ -148,11 +148,13 @@ public class Bot extends TelegramLongPollingBot {
 //    }
     @Override
     public String getBotUsername() {
+        System.out.println("Nameeeeaeaeae");
         return "DChRTestBot";
     }
 
     @Override
     public String getBotToken() {
+        log.info(Level.ALL.toString(), "Tokeeeeeen: ");
         return "742716883:AAEzbZM8vL2G5kXFXfBwKPVc8L7c7JI2Yv0";
     }
 
